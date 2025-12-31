@@ -1,0 +1,1001 @@
+Gender,Age,Working Professional or Student,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Suicidal_thoughts,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+Female,49,Working Professional,Chef,0,5,0,0,2,8,Healthy,BHM,0,1,2,No,0
+Male,26,Working Professional,Teacher,0,4,0,0,3,8,Unhealthy,LLB,1,7,3,No,1
+Male,33,Student,No Profession,0,0,0,0,0,6,Healthy,B.Pharm,1,3,1,No,1
+Male,22,Working Professional,Teacher,0,5,0,0,1,6,Moderate,BBA,1,10,1,Yes,1
+Female,30,Working Professional,Business Analyst,0,1,0,0,1,6,Unhealthy,BBA,1,9,4,Yes,0
+Female,59,Working Professional,Finanancial Analyst,0,2,0,0,5,6,Healthy,MCA,0,7,5,No,0
+Male,47,Working Professional,Chemist,0,5,0,0,2,8,Moderate,MD,0,6,2,No,0
+Male,38,Working Professional,Teacher,0,3,0,0,4,8,Unhealthy,B.Pharm,0,10,3,Yes,0
+Female,24,Student,No Profession,0,0,0,0,0,6,Moderate,BSc,0,3,2,Yes,0
+Female,42,Working Professional,Electrician,0,4,0,0,1,6,Healthy,ME,1,7,2,Yes,0
+Male,55,Working Professional,Software Engineer,0,3,0,0,2,8,Moderate,BSc,0,6,4,Yes,0
+Female,51,Working Professional,Teacher,0,1,0,0,2,8,Moderate,B.Arch,0,9,5,No,0
+Male,39,Working Professional,Data Scientist,0,2,0,0,5,8,Moderate,BCA,1,1,3,No,0
+Female,29,Working Professional,Chef,0,4,0,0,4,8,Unhealthy,BHM,0,6,5,Yes,0
+Male,50,Working Professional,Plumber,0,1,0,0,1,8,Moderate,BE,1,8,5,Yes,0
+Female,23,Working Professional,Marketing Manager,0,2,0,0,2,6,Healthy,MA,1,6,4,Yes,1
+Female,49,Working Professional,Teacher,0,5,0,0,3,8,Healthy,B.Ed,0,2,1,No,0
+Female,56,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Com,0,0,5,Yes,0
+Male,50,Working Professional,Entrepreneur,0,5,0,0,2,8,Moderate,BBA,0,3,2,Yes,0
+Male,45,Working Professional,No Profession,0,0,0,0,0,6,Moderate,MBA,1,2,3,No,0
+Female,37,Working Professional,Teacher,0,3,0,0,1,8,Healthy,B.Ed,0,5,2,Yes,0
+Female,45,Working Professional,HR Manager,0,3,0,0,1,8,Unhealthy,MA,1,6,4,Yes,0
+Male,37,Working Professional,Teacher,0,5,0,0,5,6,Healthy,B.Arch,0,9,2,Yes,0
+Female,46,Working Professional,UX/UI Designer,0,2,0,0,3,6,Healthy,BCA,0,7,5,No,0
+Male,39,Working Professional,Content Writer,0,5,0,0,2,8,Healthy,M.Com,1,7,2,Yes,0
+Male,38,Working Professional,Chef,0,2,0,0,1,8,Healthy,MHM,1,2,2,No,0
+Male,31,Student,No Profession,0,0,0,0,0,5,Healthy,BA,0,9,1,Yes,0
+Male,50,Working Professional,HR Manager,0,5,0,0,3,5,Healthy,MA,1,12,5,Yes,1
+Female,47,Working Professional,No Profession,0,0,0,0,0,8,Moderate,BSc,0,5,1,No,0
+Female,19,Working Professional,No Profession,0,1,0,0,5,8,Healthy,Class 12,0,5,2,No,0
+Female,28,Student,No Profession,0,0,0,0,0,8,Moderate,BCA,1,4,5,Yes,1
+Female,37,Working Professional,Chef,0,2,0,0,1,8,Unhealthy,BHM,0,5,3,Yes,0
+Female,25,Student,No Profession,0,0,0,0,0,6,Moderate,M.Tech,1,1,1,No,0
+Male,29,Student,No Profession,2,0,5.7,3,0,5,Healthy,PhD,0,4,1,No,0
+Male,41,Working Professional,Teacher,0,1,0,0,4,8,Unhealthy,LLB,1,6,5,No,0
+Male,45,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Pharm,1,9,1,Yes,0
+Female,50,Working Professional,No Profession,0,4,0,0,4,8,Unhealthy,Class 12,0,0,2,No,0
+Male,51,Working Professional,Educational Consultant,0,1,0,0,5,8,Unhealthy,B.Ed,1,0,4,No,0
+Male,45,Working Professional,Civil Engineer,0,3,0,0,2,5,Healthy,MCA,0,9,5,No,0
+Male,59,Working Professional,Manager,0,4,0,0,1,5,Unhealthy,BHM,1,2,4,No,0
+Male,51,Working Professional,No Profession,0,0,0,0,0,8,Healthy,ME,0,1,2,Yes,0
+Female,47,Working Professional,No Profession,0,0,0,0,0,5,Healthy,B.Pharm,1,9,2,Yes,0
+Male,60,Working Professional,Manager,0,4,0,0,1,6,Moderate,MHM,1,3,2,No,0
+Female,18,Working Professional,No Profession,0,0,0,0,0,5,Moderate,Class 12,1,10,5,No,1
+Male,55,Working Professional,Civil Engineer,0,1,0,0,1,8,Unhealthy,BBA,1,0,2,No,0
+Male,36,Working Professional,Marketing Manager,0,1,0,0,2,8,Healthy,BA,1,0,2,Yes,0
+Male,49,Working Professional,Teacher,0,2,0,0,1,8,Moderate,M.Ed,1,0,1,Yes,0
+Female,50,Working Professional,Pharmacist,0,1,0,0,3,8,Unhealthy,MA,1,10,2,Yes,0
+Male,38,Working Professional,No Profession,0,2,0,0,5,6,Moderate,Class 12,0,1,1,Yes,0
+Female,39,Working Professional,Financial Analyst,0,2,0,0,2,8,Moderate,B.Com,0,0,1,Yes,0
+Male,21,Working Professional,No Profession,0,0,0,0,0,6,Healthy,Class 12,1,8,5,Yes,0
+Male,58,Working Professional,Architect,0,2,0,0,1,8,Unhealthy,B.Arch,1,4,1,Yes,0
+Male,30,Student,No Profession,0,0,0,0,0,8,Healthy,BSc,0,1,2,No,0
+Female,44,Working Professional,Teacher,0,5,0,0,2,8,Unhealthy,B.Pharm,0,9,1,Yes,0
+Male,31,Working Professional,Mechanical Engineer,0,2,0,0,5,5,Healthy,PhD,0,0,3,Yes,0
+Male,56,Working Professional,Plumber,0,2,0,0,3,5,Moderate,MCA,0,10,3,No,0
+Female,30,Student,No Profession,0,0,0,0,0,5,Unhealthy,Class 12,0,0,1,Yes,0
+Male,47,Working Professional,Teacher,0,2,0,0,3,8,Healthy,MCA,1,12,4,No,0
+Female,23,Working Professional,HR Manager,0,5,0,0,2,6,Healthy,MSc,1,3,4,No,1
+Male,28,Student,No Profession,0,0,0,0,0,8,Moderate,B.Ed,1,12,3,No,1
+Male,25,Working Professional,Teacher,0,5,0,0,2,8,Unhealthy,B.Arch,0,4,5,Yes,1
+Male,43,Working Professional,No Profession,0,0,0,0,0,5,Healthy,BSc,0,0,3,No,0
+Male,31,Student,No Profession,0,0,0,0,0,6,Moderate,LLB,1,2,5,No,1
+Male,40,Working Professional,Marketing Manager,0,3,0,0,3,5,Unhealthy,BA,0,1,5,Yes,0
+Female,28,Working Professional,No Profession,0,0,0,0,0,6,Moderate,BCA,0,9,1,Yes,0
+Female,35,Working Professional,Mechanical Engineer,0,4,0,0,1,6,Healthy,BSc,1,4,4,No,0
+Male,54,Working Professional,Chef,0,1,0,0,2,6,Moderate,BHM,0,1,3,No,0
+Male,50,Working Professional,Customer Support,0,4,0,0,3,8,Healthy,BA,0,7,4,No,0
+Male,46,Working Professional,No Profession,0,0,0,0,0,6,Healthy,PhD,1,3,3,No,0
+Female,51,Working Professional,No Profession,0,0,0,0,0,6,Healthy,B.Ed,0,0,2,No,0
+Male,18,Working Professional,No Profession,0,0,0,0,0,6,Moderate,Class 12,1,6,4,No,1
+Female,38,Working Professional,No Profession,0,0,0,0,0,8,Healthy,MCA,1,11,5,Yes,0
+Male,54,Working Professional,Teacher,0,2,0,0,3,6,Moderate,B.Arch,0,6,1,No,0
+Male,44,Working Professional,No Profession,0,0,0,0,0,6,Healthy,BBA,0,1,3,No,0
+Male,41,Working Professional,Content Writer,0,1,0,0,2,6,Unhealthy,ME,1,6,2,Yes,0
+Female,59,Working Professional,Marketing Manager,0,5,0,0,3,8,Healthy,BA,1,5,4,Yes,0
+Male,54,Working Professional,Content Writer,0,4,0,0,2,8,Unhealthy,B.Ed,0,12,5,Yes,0
+Male,45,Working Professional,Architect,0,1,0,0,5,8,Unhealthy,B.Arch,1,6,3,Yes,0
+Male,46,Working Professional,Educational Consultant,0,2,0,0,2,8,Moderate,B.Ed,0,10,1,Yes,0
+Male,45,Working Professional,Teacher,0,2,0,0,4,8,Unhealthy,B.Pharm,0,11,4,No,0
+Male,21,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,Class 12,0,1,2,No,0
+Male,19,Working Professional,No Profession,0,0,0,0,0,5,Moderate,Class 12,1,11,2,No,1
+Female,49,Working Professional,No Profession,0,1,0,0,5,6,Moderate,Class 12,0,0,3,No,0
+Male,24,Student,No Profession,0,0,0,0,0,6,Moderate,Class 12,1,11,1,Yes,1
+Female,47,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,BSc,0,0,5,Yes,0
+Male,51,Working Professional,Judge,0,3,0,0,5,8,Healthy,LLB,0,11,1,Yes,0
+Female,30,Working Professional,Teacher,0,2,0,0,4,4,Unhealthy,B.Arch,0,10,2,No,0
+Male,54,Working Professional,Researcher,0,2,0,0,4,6,Unhealthy,M.Tech,0,2,2,No,0
+Female,60,Working Professional,UX/UI Designer,0,5,0,0,3,8,Moderate,MSc,0,2,1,Yes,0
+Male,45,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Arch,0,2,4,Yes,0
+Male,24,Working Professional,Teacher,0,4,0,0,3,6,Healthy,B.Ed,1,8,4,Yes,0
+Male,33,Student,No Profession,0,0,0,0,0,4,Healthy,BE,1,10,2,Yes,0
+Male,54,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,B.Tech,0,3,1,No,0
+Male,18,Working Professional,No Profession,0,4,0,0,2,8,Unhealthy,Class 12,0,2,1,No,0
+Male,27,Student,No Profession,0,0,0,0,0,4,Moderate,M.Tech,0,10,1,Yes,1
+Male,36,Working Professional,Teacher,0,2,0,0,5,8,Healthy,B.Ed,1,10,4,No,0
+Male,31,Working Professional,Teacher,0,4,0,0,3,4,Unhealthy,B.Ed,1,4,2,No,0
+Female,52,Working Professional,Data Scientist,0,1,0,0,3,8,Moderate,M.Tech,0,1,2,Yes,0
+Female,56,Working Professional,Educational Consultant,0,2,0,0,2,4,Healthy,B.Ed,0,9,2,No,0
+Male,36,Working Professional,Teacher,0,1,0,0,2,4,Healthy,B.Ed,1,10,3,Yes,0
+Female,19,Student,No Profession,0,0,0,0,0,4,Unhealthy,Class 12,0,6,2,Yes,0
+Female,48,Working Professional,No Profession,0,3,0,0,2,6,Healthy,Class 12,1,8,4,Yes,1
+Male,56,Working Professional,Teacher,0,3,0,0,3,8,Moderate,B.Arch,0,7,3,No,0
+Female,19,Student,No Profession,0,0,0,0,0,4,Moderate,Class 12,1,4,5,Yes,1
+Male,43,Working Professional,Judge,0,4,0,0,2,8,Healthy,LLM,0,7,3,No,0
+Male,57,Working Professional,Consultant,0,3,0,0,5,4,Unhealthy,BE,0,2,3,No,0
+Male,29,Student,No Profession,0,0,0,0,0,8,Moderate,M.Tech,1,10,2,Yes,1
+Female,19,Working Professional,No Profession,0,5,0,0,5,8,Healthy,Class 12,1,11,4,Yes,1
+Male,50,Working Professional,Researcher,0,2,0,0,1,4,Unhealthy,B.Tech,1,1,2,Yes,0
+Female,37,Working Professional,Electrician,0,1,0,0,4,6,Moderate,BCA,0,9,5,No,0
+Male,38,Working Professional,Teacher,0,4,0,0,1,6,Unhealthy,B.Pharm,0,3,5,Yes,0
+Female,37,Working Professional,Architect,0,4,0,0,1,8,Moderate,MSc,0,12,3,No,0
+Male,53,Working Professional,HR Manager,0,4,0,0,4,6,Healthy,MA,1,9,3,Yes,0
+Male,34,Working Professional,Teacher,0,3,0,0,5,8,Moderate,B.Ed,1,10,3,No,0
+Male,57,Working Professional,HR Manager,0,1,0,0,4,6,Moderate,M.Tech,0,11,5,No,0
+Male,55,Working Professional,Content Writer,0,1,0,0,4,4,Healthy,BE,0,9,1,No,0
+Male,53,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,LLB,0,0,4,Yes,0
+Female,24,Working Professional,Teacher,0,1,0,0,1,6,Unhealthy,MBBS,0,8,3,No,0
+Female,59,Working Professional,Entrepreneur,0,2,0,0,3,8,Healthy,BSc,1,10,2,No,0
+Female,51,Working Professional,Marketing Manager,0,2,0,0,5,8,Healthy,BA,0,9,3,No,0
+Male,25,Student,No Profession,0,0,0,0,0,4,Unhealthy,M.Ed,1,2,5,Yes,1
+Female,18,Working Professional,No Profession,0,5,0,0,4,8,Unhealthy,Class 12,1,7,2,Yes,1
+Female,19,Working Professional,No Profession,0,2,0,0,1,6,Healthy,Class 12,1,3,1,Yes,0
+Male,47,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,M.Pharm,1,6,4,Yes,0
+Male,44,Working Professional,Teacher,0,2,0,0,1,8,Healthy,B.Tech,1,1,3,No,0
+Female,50,Working Professional,No Profession,0,0,0,0,0,4,Moderate,BE,0,4,3,No,0
+Female,29,Working Professional,Marketing Manager,0,5,0,0,5,9,Healthy,B.Com,0,12,1,Yes,0
+Male,59,Working Professional,No Profession,0,0,0,0,0,4,Healthy,Class 12,1,5,1,No,0
+Female,57,Working Professional,Consultant,0,2,0,0,3,8,Healthy,B.Com,1,9,3,No,0
+Male,45,Working Professional,No Profession,0,4,0,0,3,6,Healthy,Class 12,1,2,4,No,0
+Female,51,Working Professional,Teacher,0,2,0,0,5,9,Moderate,B.Arch,0,11,1,No,0
+Female,57,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,BSc,1,8,2,No,0
+Female,20,Student,No Profession,0,0,0,0,0,6,Healthy,Class 12,1,10,3,No,1
+Male,50,Working Professional,No Profession,0,0,0,0,0,4,Healthy,MHM,0,12,1,No,0
+Male,54,Working Professional,Finanancial Analyst,0,3,0,0,5,8,Moderate,B.Tech,0,10,2,No,0
+Male,54,Working Professional,Pilot,0,3,0,0,5,8,Healthy,B.Tech,0,7,4,No,0
+Female,52,Working Professional,No Profession,0,3,0,0,4,6,Moderate,Class 12,1,4,4,No,0
+Male,29,Working Professional,Business Analyst,0,5,0,0,1,6,Unhealthy,BE,1,4,3,Yes,1
+Male,25,Working Professional,Graphic Designer,0,2,0,0,2,6,Moderate,B.Tech,0,6,5,No,1
+Male,19,Student,No Profession,0,0,0,0,0,8,Unhealthy,Class 12,0,6,3,No,0
+Female,36,Working Professional,Teacher,0,5,0,0,2,9,Moderate,BA,0,1,2,Yes,0
+Female,60,Working Professional,Travel Consultant,0,2,0,0,2,8,Moderate,MHM,0,12,2,Yes,0
+Male,53,Working Professional,Business Analyst,0,3,0,0,4,4,Unhealthy,ME,0,4,1,No,0
+Female,46,Working Professional,No Profession,0,0,0,0,0,4,Healthy,B.Arch,1,1,5,No,0
+Male,28,Working Professional,Digital Marketer,0,2,0,0,5,4,Unhealthy,B.Com,1,0,1,No,1
+Male,25,Student,No Profession,0,0,0,0,0,6,Moderate,B.Ed,0,8,3,Yes,1
+Male,34,Working Professional,Teacher,0,3,0,0,5,9,Healthy,LLB,0,11,3,No,0
+Male,51,Working Professional,Manager,0,4,0,0,3,8,Healthy,MHM,0,1,2,No,0
+Female,43,Working Professional,Content Writer,0,5,0,0,4,4,Unhealthy,B.Ed,0,7,2,No,0
+Male,46,Working Professional,No Profession,0,0,0,0,0,8,Healthy,M.Ed,0,11,3,No,0
+Male,48,Working Professional,Content Writer,0,4,0,0,2,6,Healthy,B.Ed,1,6,1,Yes,0
+Female,42,Working Professional,Finanancial Analyst,0,5,0,0,1,6,Healthy,BCA,1,8,1,Yes,0
+Male,60,Working Professional,No Profession,0,0,0,0,0,8,Moderate,MHM,0,0,2,No,0
+Male,22,Working Professional,No Profession,0,0,0,0,0,8,Healthy,BCA,0,11,1,Yes,1
+Female,43,Working Professional,Content Writer,0,3,0,0,5,8,Unhealthy,ME,1,12,2,Yes,0
+Male,43,Working Professional,Lawyer,0,5,0,0,1,6,Healthy,LLM,0,10,4,No,0
+Male,55,Working Professional,Customer Support,0,4,0,0,2,9,Unhealthy,BA,0,11,2,Yes,0
+Male,23,Working Professional,Architect,0,3,0,0,2,8,Moderate,B.Arch,0,5,1,No,0
+Male,56,Working Professional,Civil Engineer,0,2,0,0,3,6,Healthy,M.Tech,1,12,4,Yes,0
+Female,45,Working Professional,Teacher,0,2,0,0,5,9,Healthy,B.Arch,1,6,4,Yes,0
+Male,46,Working Professional,Civil Engineer,0,3,0,0,1,8,Healthy,M.Tech,0,10,3,No,0
+Male,29,Student,No Profession,0,0,0,0,0,6,Moderate,B.Ed,1,1,1,No,0
+Male,29,Student,No Profession,0,0,0,0,0,8,Moderate,M.Tech,0,0,1,No,0
+Male,49,Working Professional,Pharmacist,0,2,0,0,2,9,Moderate,B.Pharm,1,11,5,No,0
+Male,38,Working Professional,Chef,0,4,0,0,4,8,Healthy,BHM,0,7,5,No,0
+Male,22,Working Professional,Content Writer,0,2,0,0,5,6,Moderate,BCA,1,9,2,Yes,0
+Female,25,Student,No Profession,3,0,5.57,3,0,9,Unhealthy,MSc,1,10,5,No,1
+Male,38,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Pharm,0,10,5,Yes,0
+Female,38,Working Professional,Consultant,0,4,0,0,4,8,Unhealthy,MCA,0,9,5,Yes,0
+Female,42,Working Professional,Finanancial Analyst,0,5,0,0,1,9,Healthy,MSc,1,1,5,No,0
+Male,36,Working Professional,No Profession,0,0,0,0,0,6,Moderate,M.Ed,1,4,4,Yes,0
+Female,35,Working Professional,Lawyer,0,4,0,0,1,6,Moderate,LLB,0,10,1,Yes,0
+Male,23,Student,No Profession,0,0,0,0,0,8,Healthy,BHM,0,11,3,No,0
+Male,18,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,11,5,Yes,1
+Male,18,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,Class 12,0,3,5,No,1
+Female,28,Working Professional,Educational Consultant,0,2,0,0,5,6,Healthy,B.Ed,1,9,5,Yes,0
+Female,20,Student,No Profession,0,0,0,0,0,8,Moderate,Class 12,0,2,2,Yes,1
+Female,47,Working Professional,HR Manager,0,4,0,0,3,6,Healthy,BA,1,3,2,Yes,0
+Female,46,Working Professional,Mechanical Engineer,0,4,0,0,4,4,Healthy,BSc,1,0,1,No,0
+Male,31,Working Professional,Finanancial Analyst,0,5,0,0,2,4,Moderate,PhD,1,3,2,Yes,0
+Female,40,Working Professional,Chef,0,3,0,0,4,8,Moderate,BHM,1,11,5,Yes,1
+Male,50,Working Professional,Customer Support,0,2,0,0,5,8,Healthy,BA,1,2,4,No,0
+Male,56,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,MBBS,0,4,5,Yes,0
+Male,57,Working Professional,Manager,0,4,0,0,2,6,Unhealthy,MHM,1,9,4,Yes,0
+Female,49,Working Professional,Entrepreneur,0,2,0,0,5,9,Unhealthy,B.Tech,0,1,4,Yes,0
+Male,55,Working Professional,Content Writer,0,2,0,0,2,4,Unhealthy,B.Ed,0,11,3,No,0
+Male,31,Student,No Profession,0,0,0,0,0,8,Moderate,LLB,1,3,3,Yes,1
+Female,39,Working Professional,Data Scientist,0,4,0,0,3,6,Unhealthy,MCA,0,5,5,No,0
+Male,50,Working Professional,Teacher,0,1,0,0,3,4,Moderate,B.Ed,1,0,2,No,0
+Male,59,Working Professional,Chemist,0,5,0,0,4,9,Moderate,M.Pharm,0,10,4,Yes,0
+Female,39,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,MHM,1,4,5,Yes,0
+Male,54,Working Professional,Lawyer,0,1,0,0,3,4,Unhealthy,LLB,1,2,1,Yes,0
+Male,29,Working Professional,Judge,0,2,0,0,3,9,Moderate,LLB,1,8,1,Yes,0
+Male,25,Student,No Profession,0,0,0,0,0,9,Unhealthy,M.Ed,1,10,5,No,1
+Female,54,Working Professional,No Profession,0,0,0,0,0,6,Moderate,B.Ed,0,6,4,Yes,0
+Male,38,Working Professional,Teacher,0,1,0,0,2,8,Healthy,BA,0,2,4,No,0
+Female,33,Working Professional,Teacher,0,3,0,0,4,8,Healthy,B.Ed,1,11,5,No,0
+Male,46,Working Professional,Financial Analyst,0,2,0,0,1,9,Healthy,M.Com,0,10,3,Yes,0
+Male,37,Working Professional,Teacher,0,3,0,0,4,9,Moderate,M.Pharm,1,2,3,Yes,0
+Male,43,Working Professional,Teacher,0,1,0,0,4,9,Moderate,B.Ed,1,4,5,Yes,0
+Female,60,Working Professional,Research Analyst,0,5,0,0,2,6,Healthy,MBA,0,3,2,No,0
+Male,48,Working Professional,No Profession,0,0,0,0,0,8,Moderate,M.Com,1,12,5,Yes,0
+Male,43,Working Professional,Customer Support,0,5,0,0,3,6,Healthy,B.Com,0,12,1,Yes,0
+Male,49,Working Professional,No Profession,0,0,0,0,0,4,Moderate,M.Pharm,1,6,1,No,0
+Female,45,Working Professional,Teacher,0,4,0,0,2,9,Healthy,B.Arch,0,2,4,Yes,0
+Male,19,Working Professional,No Profession,0,4,0,0,1,6,Healthy,Class 12,1,8,3,Yes,1
+Female,47,Working Professional,Digital Marketer,0,2,0,0,5,8,Healthy,M.Com,0,0,3,Yes,0
+Male,57,Working Professional,No Profession,0,0,0,0,0,4,Moderate,BBA,1,10,1,No,0
+Male,33,Student,No Profession,0,0,0,0,0,4,Moderate,M.Pharm,0,8,3,Yes,0
+Male,38,Working Professional,Teacher,0,1,0,0,4,8,Healthy,BSc,1,11,3,No,0
+Male,35,Working Professional,No Profession,0,0,0,0,0,6,Moderate,B.Arch,1,9,4,No,0
+Female,41,Working Professional,Business Analyst,0,3,0,0,4,9,Unhealthy,MCA,1,10,2,Yes,0
+Female,56,Working Professional,No Profession,0,0,0,0,0,8,Moderate,M.Pharm,1,6,4,Yes,0
+Male,18,Working Professional,No Profession,0,3,0,0,4,6,Moderate,Class 12,0,9,3,No,0
+Male,28,Student,No Profession,0,0,0,0,0,8,Unhealthy,M.Pharm,1,11,2,No,1
+Male,38,Working Professional,Doctor,0,2,0,0,5,6,Unhealthy,MBBS,0,3,1,No,0
+Female,54,Working Professional,Architect,0,2,0,0,5,8,Unhealthy,B.Arch,1,4,2,Yes,0
+Female,56,Working Professional,Manager,0,3,0,0,3,9,Moderate,BHM,1,4,2,No,0
+Male,42,Working Professional,Lawyer,0,1,0,0,5,6,Unhealthy,LLB,0,7,2,Yes,0
+Male,54,Working Professional,Pharmacist,0,1,0,0,3,4,Moderate,MBBS,0,10,3,No,0
+Male,44,Working Professional,Teacher,0,2,0,0,1,4,Unhealthy,B.Arch,0,2,3,Yes,0
+Male,54,Working Professional,Teacher,0,1,0,0,2,9,Healthy,BBA,1,10,5,Yes,0
+Male,18,Student,No Profession,4,0,6.7,5,0,4,Moderate,Class 12,1,5,4,Yes,1
+Male,43,Working Professional,No Profession,0,4,0,0,3,8,Unhealthy,Class 12,1,0,3,Yes,0
+Male,46,Working Professional,No Profession,0,0,0,0,0,9,Healthy,MCA,1,7,1,Yes,0
+Female,18,Working Professional,No Profession,0,5,0,0,5,8,Unhealthy,Class 12,0,3,2,No,0
+Female,48,Working Professional,No Profession,0,0,0,0,0,4,Moderate,B.Com,0,2,3,No,0
+Female,50,Working Professional,HR Manager,0,2,0,0,4,8,Moderate,MA,1,6,5,No,0
+Male,53,Working Professional,Chef,0,4,0,0,3,4,Healthy,BHM,1,11,2,No,0
+Female,56,Working Professional,Teacher,0,5,0,0,3,4,Healthy,M.Com,0,2,1,Yes,0
+Male,26,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,MHM,1,8,3,No,0
+Female,53,Working Professional,Teacher,0,4,0,0,4,4,Healthy,M.Ed,1,8,4,No,0
+Male,18,Student,No Profession,0,0,0,0,0,6,Unhealthy,Class 12,1,4,2,No,1
+Male,50,Working Professional,No Profession,0,0,0,0,0,4,Healthy,BBA,1,5,2,No,0
+Female,45,Working Professional,Doctor,0,4,0,0,3,4,Healthy,MD,0,5,4,Yes,0
+Female,32,Working Professional,Lawyer,0,4,0,0,2,4,Moderate,LLM,1,0,5,Yes,1
+Female,39,Working Professional,Architect,0,5,0,0,5,8,Healthy,B.Arch,0,1,4,Yes,0
+Female,41,Working Professional,No Profession,0,0,0,0,0,4,Healthy,B.Pharm,0,10,1,Yes,0
+Male,52,Working Professional,Financial Analyst,0,4,0,0,1,8,Moderate,MBA,1,5,2,No,0
+Male,21,Student,No Profession,1,0,7.25,1,0,4,Healthy,MCA,1,7,2,No,0
+Female,31,Student,No Profession,0,0,0,0,0,8,Healthy,PhD,0,8,4,Yes,0
+Male,37,Working Professional,No Profession,0,0,0,0,0,4,Moderate,BBA,0,0,3,No,0
+Male,21,Student,No Profession,0,0,0,0,0,9,Healthy,MA,0,0,3,Yes,0
+Male,42,Working Professional,Consultant,0,4,0,0,2,6,Healthy,MSc,0,8,4,No,0
+Female,29,Working Professional,No Profession,0,5,0,0,1,4,Healthy,Class 12,1,10,4,Yes,1
+Male,46,Working Professional,Mechanical Engineer,0,2,0,0,5,4,Healthy,M.Tech,0,6,1,No,0
+Female,57,Working Professional,Consultant,0,5,0,0,4,8,Unhealthy,B.Com,0,3,4,No,0
+Male,53,Working Professional,No Profession,0,0,0,0,0,8,Moderate,MBA,1,9,1,No,0
+Female,37,Working Professional,Teacher,0,1,0,0,3,6,Unhealthy,BA,1,6,4,No,0
+Male,46,Working Professional,Civil Engineer,0,2,0,0,4,4,Healthy,PhD,1,8,2,Yes,0
+Female,49,Working Professional,Educational Consultant,0,5,0,0,4,8,Moderate,M.Ed,1,1,3,Yes,0
+Male,42,Working Professional,Marketing Manager,0,2,0,0,2,6,Healthy,B.Com,0,10,5,No,0
+Male,55,Working Professional,Finanancial Analyst,0,5,0,0,5,4,Moderate,MCA,1,9,4,No,0
+Female,25,Student,No Profession,1,0,6.37,3,0,8,Moderate,B.Pharm,1,2,2,No,0
+Female,51,Working Professional,Digital Marketer,0,2,0,0,5,8,Unhealthy,BA,1,9,3,No,0
+Female,21,Student,No Profession,0,0,0,0,0,6,Moderate,B.Com,1,0,4,Yes,1
+Female,39,Working Professional,HR Manager,0,2,0,0,4,6,Unhealthy,BBA,0,5,5,Yes,0
+Female,49,Working Professional,Pharmacist,0,3,0,0,2,8,Unhealthy,M.Pharm,1,12,2,Yes,0
+Male,38,Working Professional,No Profession,0,0,0,0,0,6,Healthy,M.Tech,0,8,1,Yes,0
+Female,58,Working Professional,Financial Analyst,0,5,0,0,4,8,Moderate,BBA,1,6,3,No,0
+Male,54,Working Professional,Chef,0,5,0,0,5,8,Moderate,MHM,1,9,3,No,0
+Male,38,Working Professional,Doctor,0,1,0,0,3,4,Healthy,M.Pharm,1,11,3,Yes,0
+Male,42,Working Professional,Researcher,0,1,0,0,2,4,Unhealthy,BSc,0,0,1,No,0
+Male,28,Student,No Profession,0,0,0,0,0,8,Unhealthy,BCA,1,9,1,Yes,0
+Male,38,Working Professional,Customer Support,0,1,0,0,4,9,Unhealthy,M.Com,1,6,3,Yes,0
+Female,49,Working Professional,Manager,0,4,0,0,2,9,Unhealthy,BHM,0,2,2,Yes,0
+Female,35,Working Professional,No Profession,0,0,0,0,0,8,Healthy,M.Tech,0,4,5,No,0
+Female,48,Working Professional,Teacher,0,1,0,0,2,4,Moderate,MBBS,1,1,2,No,0
+Female,18,Working Professional,No Profession,0,4,0,0,1,6,Moderate,Class 12,0,11,5,No,1
+Male,43,Working Professional,Teacher,0,3,0,0,1,8,Moderate,B.Ed,1,10,5,Yes,0
+Male,28,Student,No Profession,0,0,0,0,0,8,Unhealthy,MD,0,6,3,No,0
+Female,53,Working Professional,Chemist,0,3,0,0,2,4,Moderate,B.Pharm,1,8,1,No,0
+Female,30,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,BHM,0,0,4,No,0
+Male,25,Student,No Profession,0,0,0,0,0,8,Unhealthy,B.Pharm,1,3,4,No,1
+Female,20,Student,No Profession,0,0,0,0,0,8,Moderate,Class 12,1,11,5,Yes,1
+Female,51,Working Professional,Teacher,0,4,0,0,2,9,Moderate,M.Ed,1,6,5,Yes,0
+Male,28,Working Professional,Manager,0,1,0,0,1,6,Healthy,MHM,0,0,1,No,0
+Male,23,Student,No Profession,0,0,0,0,0,6,Unhealthy,MSc,1,10,1,Yes,0
+Male,40,Working Professional,Consultant,0,1,0,0,4,9,Healthy,MCA,0,8,2,No,0
+Male,38,Working Professional,No Profession,0,3,0,0,4,9,Unhealthy,Class 12,1,6,3,Yes,0
+Male,19,Student,No Profession,0,0,0,0,0,6,Healthy,Class 12,1,2,1,No,0
+Male,20,Working Professional,No Profession,0,0,0,0,0,6,Moderate,Class 12,0,9,5,No,0
+Female,20,Working Professional,No Profession,0,4,0,0,1,4,Unhealthy,Class 12,0,11,2,Yes,0
+Male,37,Working Professional,HR Manager,0,5,0,0,3,8,Moderate,MA,1,1,5,Yes,1
+Male,42,Working Professional,No Profession,0,5,0,0,2,8,Unhealthy,Class 12,1,6,3,Yes,1
+Female,33,Student,No Profession,0,0,0,0,0,4,Unhealthy,MBA,1,10,5,Yes,1
+Male,51,Working Professional,UX/UI Designer,0,1,0,0,5,9,Moderate,B.Tech,1,12,2,Yes,0
+Male,56,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,LLM,1,6,5,No,0
+Male,51,Working Professional,Content Writer,0,2,0,0,5,8,Unhealthy,B.Ed,0,3,1,Yes,0
+Male,32,Working Professional,Data Scientist,0,4,0,0,5,9,Unhealthy,B.Tech,0,0,3,No,0
+Male,47,Working Professional,No Profession,0,0,0,0,0,8,Moderate,LLM,0,7,4,Yes,0
+Female,38,Working Professional,No Profession,0,2,0,0,3,8,Moderate,Class 12,0,1,3,Yes,0
+Female,38,Working Professional,Teacher,0,1,0,0,4,6,Healthy,B.Arch,0,10,2,No,0
+Male,59,Working Professional,Manager,0,4,0,0,1,9,Moderate,MHM,1,2,4,No,0
+Female,23,Student,No Profession,0,0,0,0,0,9,Unhealthy,BE,0,12,5,No,0
+Female,57,Working Professional,No Profession,0,0,0,0,0,8,Healthy,BHM,1,2,5,No,0
+Female,55,Working Professional,Teacher,0,4,0,0,2,9,Moderate,LLB,0,2,1,Yes,0
+Female,49,Working Professional,Consultant,0,5,0,0,3,6,Unhealthy,PhD,0,0,4,Yes,0
+Female,27,Working Professional,Accountant,0,3,0,0,4,4,Unhealthy,B.Com,0,2,2,No,0
+Female,45,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,B.Arch,0,0,3,Yes,0
+Male,28,Working Professional,HR Manager,0,2,0,0,3,9,Healthy,BBA,1,5,5,No,1
+Male,22,Student,No Profession,0,0,0,0,0,8,Unhealthy,B.Ed,0,10,1,No,0
+Female,57,Working Professional,Business Analyst,0,1,0,0,3,6,Healthy,BBA,1,7,5,No,0
+Female,19,Student,No Profession,2,0,6.95,2,0,4,Healthy,Class 12,1,2,3,Yes,0
+Male,38,Working Professional,Financial Analyst,0,4,0,0,4,4,Unhealthy,B.Com,1,0,4,No,0
+Female,30,Student,No Profession,0,0,0,0,0,4,Healthy,BSc,0,1,4,Yes,0
+Female,28,Working Professional,Teacher,0,2,0,0,2,6,Healthy,B.Ed,1,8,5,Yes,1
+Female,53,Working Professional,Sales Executive,0,1,0,0,2,9,Unhealthy,MBA,0,0,2,No,0
+Male,54,Working Professional,Educational Consultant,0,3,0,0,2,8,Healthy,M.Ed,0,11,1,No,0
+Male,43,Working Professional,No Profession,0,0,0,0,0,8,Moderate,LLB,1,0,4,Yes,0
+Male,21,Student,No Profession,0,0,0,0,0,4,Unhealthy,MSc,0,1,5,Yes,0
+Female,38,Working Professional,Data Scientist,0,1,0,0,5,4,Moderate,MSc,1,11,2,Yes,0
+Female,19,Student,No Profession,0,0,0,0,0,9,Healthy,Class 12,1,0,4,Yes,1
+Male,45,Working Professional,Teacher,0,3,0,0,4,6,Healthy,B.Pharm,0,0,2,Yes,0
+Male,46,Working Professional,Pilot,0,2,0,0,5,4,Unhealthy,PhD,1,5,1,No,0
+Male,23,Student,No Profession,0,0,0,0,0,4,Moderate,B.Com,0,10,4,Yes,0
+Female,23,Student,No Profession,0,0,0,0,0,8,Healthy,BHM,1,12,5,Yes,1
+Female,54,Working Professional,No Profession,0,0,0,0,0,9,Healthy,MBA,0,5,4,Yes,0
+Female,20,Working Professional,No Profession,0,5,0,0,4,8,Healthy,Class 12,1,7,2,Yes,0
+Female,58,Working Professional,Consultant,0,2,0,0,3,6,Moderate,MSc,1,1,4,No,0
+Female,47,Working Professional,No Profession,0,0,0,0,0,6,Moderate,BBA,1,11,1,Yes,0
+Male,29,Working Professional,Graphic Designer,0,5,0,0,1,8,Unhealthy,MSc,1,11,5,No,1
+Male,58,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,B.Pharm,0,4,3,Yes,0
+Male,56,Working Professional,Mechanical Engineer,0,3,0,0,2,4,Moderate,BCA,0,1,1,No,0
+Female,18,Student,No Profession,0,0,0,0,0,6,Unhealthy,Class 12,1,11,4,No,1
+Female,49,Working Professional,Content Writer,0,1,0,0,3,4,Moderate,B.Ed,1,1,5,No,0
+Male,56,Working Professional,Teacher,0,2,0,0,5,4,Unhealthy,B.Arch,1,1,1,No,0
+Male,37,Working Professional,Data Scientist,0,1,0,0,2,6,Healthy,BSc,0,6,3,No,0
+Male,28,Student,No Profession,0,0,0,0,0,8,Unhealthy,M.Pharm,1,12,1,Yes,1
+Female,40,Working Professional,No Profession,0,5,0,0,1,9,Healthy,Class 12,0,8,4,Yes,0
+Male,42,Working Professional,No Profession,0,0,0,0,0,4,Moderate,B.Arch,1,2,4,No,0
+Male,38,Working Professional,Entrepreneur,0,1,0,0,4,6,Moderate,MSc,0,11,2,No,0
+Male,51,Working Professional,Lawyer,0,3,0,0,1,6,Moderate,LLB,0,5,1,No,0
+Female,43,Working Professional,HR Manager,0,4,0,0,3,9,Unhealthy,ME,0,9,4,Yes,0
+Female,57,Working Professional,Chemist,0,3,0,0,3,6,Healthy,MD,0,11,4,Yes,0
+Male,24,Student,No Profession,2,0,8.04,3,0,6,Unhealthy,M.Tech,0,8,1,No,0
+Female,33,Student,No Profession,1,0,9.71,1,0,9,Healthy,B.Com,1,5,2,No,0
+Female,20,Student,No Profession,0,0,0,0,0,6,Moderate,Class 12,1,7,3,No,1
+Male,30,Working Professional,Teacher,0,5,0,0,4,6,Unhealthy,MBA,0,11,1,Yes,0
+Male,40,Working Professional,Graphic Designer,0,5,0,0,5,6,Moderate,M.Tech,0,0,2,Yes,0
+Male,23,Student,No Profession,5,0,7.87,1,0,8,Moderate,BSc,1,11,4,Yes,1
+Male,20,Working Professional,No Profession,0,4,0,0,3,6,Moderate,Class 12,1,9,5,Yes,1
+Male,20,Working Professional,No Profession,0,5,0,0,5,4,Healthy,Class 12,0,6,2,Yes,0
+Male,23,Student,No Profession,0,0,0,0,0,6,Healthy,BA,1,11,4,Yes,1
+Male,42,Working Professional,No Profession,0,4,0,0,2,6,Moderate,Class 12,0,7,2,Yes,0
+Male,45,Working Professional,Software Engineer,0,2,0,0,1,8,Unhealthy,PhD,0,11,1,Yes,0
+Male,52,Working Professional,Content Writer,0,5,0,0,5,8,Moderate,B.Ed,0,9,3,Yes,0
+Female,24,Student,No Profession,0,0,0,0,0,4,Healthy,MBBS,1,9,2,No,1
+Male,25,Student,No Profession,0,0,0,0,0,6,Unhealthy,BSc,0,7,3,Yes,0
+Male,21,Working Professional,Customer Support,0,5,0,0,1,4,Unhealthy,B.Com,0,0,3,Yes,1
+Female,49,Working Professional,Content Writer,0,2,0,0,2,9,Moderate,B.Ed,1,8,2,No,0
+Female,24,Student,No Profession,0,0,0,0,0,6,Moderate,MBBS,1,3,5,No,1
+Female,49,Working Professional,Teacher,0,3,0,0,5,4,Unhealthy,B.Arch,0,6,5,No,0
+Male,58,Working Professional,Chef,0,2,0,0,5,8,Moderate,MHM,0,12,2,No,0
+Female,49,Working Professional,Content Writer,0,3,0,0,2,8,Unhealthy,M.Ed,1,1,1,No,0
+Female,42,Working Professional,Educational Consultant,0,5,0,0,2,4,Moderate,B.Ed,1,11,5,Yes,0
+Male,38,Working Professional,Consultant,0,2,0,0,2,8,Moderate,B.Com,0,9,5,Yes,0
+Female,48,Working Professional,Mechanical Engineer,0,3,0,0,1,6,Moderate,B.Tech,1,4,4,Yes,0
+Female,36,Working Professional,Teacher,0,5,0,0,3,9,Healthy,M.Ed,0,0,1,No,0
+Female,29,Working Professional,Civil Engineer,0,2,0,0,1,9,Healthy,MCA,1,10,4,Yes,1
+Male,45,Working Professional,Consultant,0,3,0,0,2,6,Unhealthy,B.Com,0,4,4,Yes,0
+Female,42,Working Professional,Teacher,0,1,0,0,1,8,Healthy,B.Arch,0,1,3,No,0
+Female,46,Working Professional,Sales Executive,0,3,0,0,3,4,Unhealthy,MBA,1,12,5,Yes,0
+Female,53,Working Professional,Financial Analyst,0,5,0,0,2,4,Unhealthy,M.Com,1,6,3,No,0
+Male,54,Working Professional,Teacher,0,2,0,0,2,4,Moderate,B.Ed,0,10,4,No,0
+Female,35,Working Professional,Accountant,0,5,0,0,1,8,Unhealthy,B.Com,0,7,3,No,0
+Female,23,Working Professional,Graphic Designer,0,3,0,0,4,6,Unhealthy,BCA,1,12,5,No,0
+Female,24,Student,No Profession,3,0,5.46,4,0,8,Moderate,BSc,1,10,5,No,1
+Male,54,Working Professional,Architect,0,2,0,0,4,4,Unhealthy,B.Arch,1,0,4,No,0
+Male,20,Working Professional,No Profession,0,0,0,0,0,8,Healthy,Class 12,1,0,4,Yes,0
+Male,31,Student,No Profession,0,0,0,0,0,9,Unhealthy,MCA,1,0,3,Yes,0
+Male,53,Working Professional,Business Analyst,0,1,0,0,4,9,Moderate,PhD,1,12,2,Yes,0
+Male,18,Working Professional,No Profession,0,4,0,0,1,6,Unhealthy,Class 12,1,12,4,No,1
+Female,52,Working Professional,Travel Consultant,0,4,0,0,5,6,Healthy,MHM,1,2,3,Yes,0
+Female,34,Working Professional,No Profession,0,0,0,0,0,6,Moderate,LLB,0,11,5,No,0
+Female,48,Working Professional,Customer Support,0,3,0,0,5,9,Moderate,BA,0,0,5,No,0
+Female,54,Working Professional,Finanancial Analyst,0,1,0,0,1,6,Healthy,BE,1,12,2,No,0
+Male,53,Working Professional,Chemist,0,2,0,0,2,9,Unhealthy,M.Pharm,1,11,2,Yes,0
+Male,60,Working Professional,Graphic Designer,0,5,0,0,2,8,Moderate,MCA,1,0,3,Yes,0
+Female,40,Working Professional,Judge,0,3,0,0,4,8,Moderate,LLB,1,8,1,No,0
+Female,20,Working Professional,No Profession,0,5,0,0,3,9,Unhealthy,Class 12,1,9,5,Yes,1
+Male,20,Student,No Profession,0,0,0,0,0,4,Unhealthy,Class 12,1,4,5,Yes,1
+Male,46,Working Professional,Teacher,0,3,0,0,4,9,Unhealthy,MBA,0,9,2,Yes,0
+Female,34,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,LLM,1,9,5,No,1
+Male,20,Working Professional,No Profession,0,3,0,0,1,4,Healthy,Class 12,0,7,2,Yes,0
+Male,21,Student,No Profession,0,0,0,0,0,4,Healthy,MA,1,2,5,No,1
+Female,46,Working Professional,Content Writer,0,3,0,0,5,8,Unhealthy,B.Ed,1,11,3,No,0
+Female,30,Working Professional,Customer Support,0,2,0,0,2,8,Healthy,BA,0,12,2,Yes,0
+Female,53,Working Professional,Pharmacist,0,1,0,0,4,8,Healthy,MBBS,0,11,1,Yes,0
+Male,30,Working Professional,No Profession,0,0,0,0,0,6,Healthy,B.Pharm,1,10,3,No,1
+Male,42,Working Professional,Researcher,0,2,0,0,3,8,Unhealthy,M.Tech,1,5,1,No,0
+Male,34,Working Professional,Travel Consultant,0,2,0,0,4,4,Unhealthy,MHM,1,5,5,Yes,0
+Male,25,Student,No Profession,0,0,0,0,0,8,Moderate,BA,1,11,4,Yes,0
+Male,54,Working Professional,Customer Support,0,1,0,0,3,4,Moderate,BA,0,3,3,Yes,0
+Male,26,Working Professional,No Profession,0,0,0,0,0,9,Moderate,BCA,1,11,5,Yes,1
+Female,48,Working Professional,Teacher,0,2,0,0,2,8,Healthy,B.Arch,1,7,1,Yes,0
+Male,54,Working Professional,Teacher,0,3,0,0,2,9,Unhealthy,MBA,1,12,1,No,0
+Female,44,Working Professional,Financial Analyst,0,3,0,0,2,4,Unhealthy,B.Com,0,1,5,No,0
+Male,19,Student,No Profession,0,0,0,0,0,8,Healthy,Class 12,0,11,1,Yes,0
+Male,48,Working Professional,Plumber,0,1,0,0,4,4,Unhealthy,ME,0,9,1,No,0
+Female,48,Working Professional,No Profession,0,0,0,0,0,9,Moderate,BA,1,12,2,No,0
+Female,20,Working Professional,No Profession,0,4,0,0,5,6,Moderate,Class 12,1,4,4,No,1
+Female,46,Working Professional,Digital Marketer,0,3,0,0,3,9,Healthy,M.Com,1,0,3,No,0
+Male,54,Working Professional,No Profession,0,0,0,0,0,8,Healthy,BSc,0,2,3,Yes,0
+Male,47,Working Professional,HR Manager,0,1,0,0,3,8,Unhealthy,B.Tech,1,3,1,Yes,0
+Female,18,Working Professional,No Profession,0,3,0,0,1,6,Moderate,Class 12,1,12,4,No,1
+Male,43,Working Professional,Business Analyst,0,2,0,0,1,8,Unhealthy,B.Com,1,9,1,No,0
+Female,34,Student,No Profession,3,0,9.82,3,0,9,Healthy,MSc,1,12,5,No,0
+Male,24,Student,No Profession,0,0,0,0,0,6,Healthy,M.Tech,0,10,2,No,0
+Male,47,Working Professional,Pharmacist,0,4,0,0,1,8,Moderate,B.Pharm,1,6,1,Yes,0
+Female,28,Working Professional,Civil Engineer,0,3,0,0,1,4,Healthy,BCA,0,8,1,Yes,0
+Male,35,Working Professional,Entrepreneur,0,5,0,0,4,8,Moderate,BBA,1,0,2,Yes,0
+Male,40,Working Professional,No Profession,0,0,0,0,0,6,Healthy,B.Com,0,0,2,Yes,0
+Female,22,Working Professional,Electrician,0,3,0,0,1,8,Healthy,M.Tech,0,10,3,No,1
+Male,33,Student,No Profession,0,0,0,0,0,4,Moderate,B.Ed,0,8,1,No,0
+Male,36,Working Professional,No Profession,0,0,0,0,0,9,Healthy,M.Tech,0,0,5,No,0
+Female,47,Working Professional,Electrician,0,4,0,0,4,4,Healthy,BCA,0,0,5,Yes,0
+Male,19,Working Professional,No Profession,0,5,0,0,1,8,Healthy,Class 12,1,10,5,No,1
+Female,48,Working Professional,HR Manager,0,2,0,0,5,4,Moderate,MSc,1,0,2,Yes,0
+Female,54,Working Professional,Architect,0,2,0,0,2,8,Unhealthy,B.Arch,0,8,5,Yes,0
+Male,32,Student,No Profession,3,0,9.11,5,0,8,Moderate,MBBS,1,5,5,Yes,1
+Male,18,Student,No Profession,0,0,0,0,0,8,Moderate,Class 12,1,6,4,No,1
+Male,44,Working Professional,Teacher,0,4,0,0,4,6,Unhealthy,M.Ed,0,6,4,Yes,0
+Female,31,Student,No Profession,0,0,0,0,0,4,Unhealthy,M.Com,1,7,1,Yes,0
+Male,56,Working Professional,Plumber,0,4,0,0,5,8,Healthy,BE,1,10,2,No,0
+Female,25,Student,No Profession,0,0,0,0,0,8,Healthy,BHM,0,9,2,No,0
+Male,28,Working Professional,HR Manager,0,4,0,0,1,4,Unhealthy,M.Tech,1,2,5,No,1
+Female,24,Working Professional,Pharmacist,0,5,0,0,3,4,Moderate,MBBS,1,12,5,No,0
+Female,18,Working Professional,No Profession,0,4,0,0,1,4,Unhealthy,Class 12,1,12,5,No,1
+Male,20,Student,No Profession,0,0,0,0,0,6,Unhealthy,Class 12,0,3,3,No,0
+Male,56,Working Professional,Consultant,0,1,0,0,3,4,Healthy,M.Com,0,0,4,Yes,0
+Male,37,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,BSc,0,11,4,No,0
+Female,36,Working Professional,Chef,0,2,0,0,3,6,Healthy,BHM,1,10,3,Yes,0
+Female,53,Working Professional,Educational Consultant,0,2,0,0,2,8,Healthy,B.Ed,0,11,3,Yes,0
+Female,23,Working Professional,No Profession,0,0,0,0,0,6,Healthy,Class 12,1,9,5,No,0
+Male,20,Working Professional,No Profession,0,2,0,0,5,8,Healthy,Class 12,1,10,3,No,0
+Female,54,Working Professional,HR Manager,0,2,0,0,2,4,Healthy,BBA,1,4,5,No,0
+Female,45,Working Professional,Consultant,0,5,0,0,2,4,Unhealthy,BBA,1,0,2,No,0
+Male,18,Working Professional,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,11,2,No,1
+Male,59,Working Professional,Data Scientist,0,3,0,0,4,6,Healthy,M.Tech,0,1,2,Yes,0
+Female,38,Working Professional,Consultant,0,2,0,0,2,9,Healthy,B.Com,1,5,5,Yes,0
+Male,31,Student,No Profession,0,0,0,0,0,8,Unhealthy,MSc,0,0,1,Yes,0
+Female,21,Working Professional,No Profession,0,1,0,0,5,4,Moderate,Class 12,0,6,1,Yes,0
+Female,24,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,BE,1,6,1,No,1
+Male,56,Working Professional,Teacher,0,3,0,0,5,9,Moderate,B.Arch,0,1,1,No,0
+Female,58,Working Professional,Researcher,0,1,0,0,5,8,Unhealthy,PhD,0,12,4,No,0
+Male,57,Working Professional,Consultant,0,3,0,0,5,8,Moderate,BBA,1,10,3,No,0
+Male,24,Student,No Profession,0,0,0,0,0,8,Unhealthy,MD,1,6,3,Yes,1
+Female,45,Working Professional,No Profession,0,0,0,0,0,4,Healthy,LLM,1,5,2,No,0
+Male,53,Working Professional,No Profession,0,0,0,0,0,4,Moderate,B.Com,1,0,2,No,0
+Male,21,Working Professional,Doctor,0,4,0,0,3,6,Unhealthy,B.Pharm,1,10,3,Yes,1
+Female,39,Working Professional,Finanancial Analyst,0,4,0,0,4,4,Unhealthy,M.Tech,1,4,4,Yes,0
+Female,52,Working Professional,No Profession,0,0,0,0,0,6,Moderate,B.Pharm,1,7,3,No,0
+Female,40,Working Professional,Educational Consultant,0,5,0,0,2,8,Unhealthy,B.Ed,1,0,2,Yes,0
+Male,24,Student,No Profession,0,0,0,0,0,4,Unhealthy,B.Pharm,1,8,4,No,1
+Female,23,Student,No Profession,0,0,0,0,0,6,Healthy,MSc,0,0,3,Yes,1
+Female,48,Working Professional,Consultant,0,4,0,0,4,6,Healthy,BBA,0,1,2,No,0
+Female,25,Student,No Profession,0,0,0,0,0,9,Moderate,BSc,1,7,3,Yes,1
+Female,36,Working Professional,No Profession,0,3,0,0,5,8,Healthy,Class 12,1,3,5,Yes,0
+Male,42,Working Professional,No Profession,0,0,0,0,0,9,Healthy,M.Tech,0,0,1,No,0
+Male,41,Working Professional,Researcher,0,5,0,0,4,4,Healthy,MSc,1,11,3,Yes,1
+Male,43,Working Professional,Financial Analyst,0,2,0,0,4,9,Moderate,MBA,0,1,1,Yes,0
+Female,40,Working Professional,Teacher,0,2,0,0,2,9,Healthy,LLB,0,11,1,No,0
+Male,56,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,B.Tech,0,1,3,No,0
+Male,25,Student,No Profession,0,0,0,0,0,9,Unhealthy,BSc,1,5,5,Yes,1
+Female,28,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,LLM,0,10,4,Yes,1
+Male,18,Working Professional,No Profession,0,4,0,0,2,6,Moderate,Class 12,1,10,2,No,1
+Female,25,Student,No Profession,0,0,0,0,0,9,Moderate,B.Arch,1,7,1,Yes,0
+Female,47,Working Professional,Pharmacist,0,4,0,0,3,6,Unhealthy,MD,0,5,2,Yes,0
+Female,57,Working Professional,Digital Marketer,0,3,0,0,2,8,Healthy,BA,0,2,5,Yes,0
+Male,56,Working Professional,Chemist,0,4,0,0,5,6,Moderate,MD,0,1,4,No,0
+Female,45,Working Professional,No Profession,0,0,0,0,0,4,Healthy,PhD,0,1,1,Yes,0
+Female,56,Working Professional,Entrepreneur,0,2,0,0,4,6,Moderate,BE,1,2,2,No,0
+Male,19,Working Professional,No Profession,0,3,0,0,5,6,Healthy,Class 12,1,6,5,No,1
+Male,47,Working Professional,Marketing Manager,0,5,0,0,1,8,Unhealthy,BA,0,5,2,No,0
+Female,28,Student,No Profession,0,0,0,0,0,6,Unhealthy,BE,1,4,5,No,1
+Male,52,Working Professional,Business Analyst,0,1,0,0,1,9,Healthy,MSc,1,9,5,Yes,0
+Female,20,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,12,5,No,1
+Male,51,Working Professional,Content Writer,0,3,0,0,1,8,Moderate,B.Ed,1,9,4,No,0
+Male,40,Working Professional,Pharmacist,0,3,0,0,3,4,Healthy,MD,0,0,3,No,0
+Male,46,Working Professional,Teacher,0,5,0,0,5,4,Unhealthy,M.Com,0,11,4,No,0
+Female,46,Working Professional,Sales Executive,0,1,0,0,2,4,Moderate,M.Com,0,6,5,Yes,0
+Male,56,Working Professional,Teacher,0,3,0,0,1,9,Unhealthy,LLB,0,10,1,No,0
+Male,42,Working Professional,Teacher,0,4,0,0,4,4,Unhealthy,LLB,1,1,1,No,0
+Female,24,Student,No Profession,0,0,0,0,0,4,Moderate,LLM,1,6,5,No,1
+Male,51,Working Professional,Plumber,0,3,0,0,4,8,Healthy,BE,1,0,4,Yes,0
+Male,19,Working Professional,No Profession,0,5,0,0,4,8,Moderate,Class 12,0,8,3,No,0
+Male,23,Student,No Profession,0,0,0,0,0,6,Moderate,B.Tech,0,12,3,No,0
+Male,45,Working Professional,No Profession,0,0,0,0,0,6,Healthy,MCA,1,9,5,Yes,0
+Male,22,Working Professional,UX/UI Designer,0,5,0,0,2,4,Moderate,MCA,1,3,5,No,1
+Male,42,Working Professional,Chef,0,5,0,0,5,4,Healthy,BHM,0,4,1,No,0
+Male,19,Student,No Profession,0,0,0,0,0,9,Moderate,Class 12,0,1,5,No,1
+Female,18,Working Professional,No Profession,0,5,0,0,1,4,Healthy,Class 12,1,11,5,Yes,1
+Male,49,Working Professional,Teacher,0,5,0,0,4,4,Moderate,LLB,0,0,2,Yes,0
+Female,24,Student,No Profession,3,0,6.38,3,0,4,Healthy,MCA,0,11,4,Yes,1
+Male,42,Working Professional,Data Scientist,0,4,0,0,4,9,Healthy,BCA,0,11,3,No,0
+Male,30,Working Professional,Judge,0,5,0,0,3,4,Moderate,LLB,1,5,5,Yes,0
+Male,50,Working Professional,No Profession,0,0,0,0,0,9,Healthy,M.Com,1,0,1,Yes,0
+Male,35,Working Professional,Entrepreneur,0,1,0,0,5,8,Unhealthy,MCA,0,0,1,Yes,0
+Female,58,Working Professional,Marketing Manager,0,2,0,0,3,9,Moderate,BA,0,0,2,Yes,0
+Male,43,Working Professional,Teacher,0,2,0,0,3,9,Healthy,M.Pharm,0,0,4,Yes,0
+Male,58,Working Professional,Mechanical Engineer,0,1,0,0,4,4,Moderate,M.Tech,1,1,4,Yes,0
+Female,49,Working Professional,Pharmacist,0,3,0,0,3,9,Unhealthy,MBBS,1,3,1,No,0
+Female,34,Student,No Profession,2,0,8.5,5,0,9,Unhealthy,BSc,0,1,2,Yes,0
+Male,40,Working Professional,Consultant,0,5,0,0,1,6,Unhealthy,B.Com,1,11,2,Yes,0
+Female,59,Working Professional,HR Manager,0,5,0,0,5,9,Moderate,BCA,1,12,5,Yes,0
+Male,48,Working Professional,No Profession,0,0,0,0,0,8,Healthy,BA,0,10,2,Yes,0
+Female,27,Working Professional,Consultant,0,2,0,0,3,4,Unhealthy,BBA,1,1,4,Yes,0
+Female,25,Student,No Profession,0,0,0,0,0,6,Healthy,B.Arch,0,8,4,Yes,0
+Male,28,Student,No Profession,0,0,0,0,0,8,Unhealthy,BBA,0,3,4,No,0
+Female,27,Student,No Profession,0,0,0,0,0,9,Healthy,BBA,1,4,4,Yes,1
+Male,58,Working Professional,Chemist,0,4,0,0,2,9,Unhealthy,M.Pharm,0,3,4,No,0
+Female,56,Working Professional,Doctor,0,2,0,0,4,8,Moderate,MBBS,1,11,1,Yes,0
+Male,47,Working Professional,Teacher,0,5,0,0,1,8,Healthy,B.Com,0,3,1,Yes,0
+Male,34,Working Professional,Teacher,0,3,0,0,2,8,Unhealthy,BBA,0,0,3,Yes,0
+Female,52,Working Professional,No Profession,0,0,0,0,0,4,Moderate,B.Ed,0,3,3,Yes,0
+Male,38,Working Professional,Doctor,0,3,0,0,3,4,Moderate,M.Pharm,1,9,5,Yes,1
+Male,24,Working Professional,Consultant,0,3,0,0,5,6,Moderate,B.Com,0,6,4,Yes,0
+Male,35,Working Professional,Teacher,0,2,0,0,2,9,Moderate,MBBS,1,4,2,Yes,0
+Male,38,Working Professional,Financial Analyst,0,1,0,0,4,4,Moderate,M.Com,0,3,1,Yes,0
+Male,54,Working Professional,No Profession,0,0,0,0,0,6,Healthy,MD,1,0,3,No,0
+Female,52,Working Professional,Plumber,0,2,0,0,3,6,Moderate,MCA,0,9,3,No,0
+Male,22,Student,No Profession,0,0,0,0,0,9,Healthy,BSc,0,0,2,Yes,0
+Male,27,Student,No Profession,0,0,0,0,0,6,Healthy,BHM,1,10,4,No,0
+Male,18,Working Professional,No Profession,0,0,0,0,0,8,Moderate,Class 12,0,7,3,Yes,1
+Female,34,Student,No Profession,0,0,0,0,0,8,Unhealthy,B.Tech,1,7,4,Yes,1
+Male,44,Working Professional,No Profession,0,0,0,0,0,9,Healthy,B.Pharm,0,12,5,Yes,0
+Female,36,Working Professional,No Profession,0,1,0,0,4,8,Moderate,Class 12,0,5,5,No,0
+Female,20,Working Professional,No Profession,0,3,0,0,3,4,Healthy,Class 12,0,7,2,Yes,0
+Male,22,Student,No Profession,0,0,0,0,0,6,Moderate,B.Com,1,10,3,No,1
+Male,23,Student,No Profession,0,0,0,0,0,9,Unhealthy,M.Com,0,11,3,Yes,0
+Male,51,Working Professional,No Profession,0,0,0,0,0,6,Moderate,B.Arch,0,10,4,No,0
+Female,44,Working Professional,Marketing Manager,0,3,0,0,2,4,Healthy,MA,0,9,5,Yes,0
+Male,24,Working Professional,Teacher,0,1,0,0,3,9,Healthy,B.Arch,0,9,2,Yes,0
+Male,24,Student,No Profession,0,0,0,0,0,4,Healthy,M.Pharm,1,9,1,Yes,1
+Male,21,Student,No Profession,5,0,8.1,1,0,9,Moderate,B.Arch,1,9,3,No,1
+Male,21,Working Professional,Civil Engineer,0,3,0,0,4,4,Healthy,B.Tech,1,10,4,Yes,1
+Male,60,Working Professional,Teacher,0,4,0,0,4,9,Unhealthy,MBA,1,8,5,No,0
+Male,26,Student,No Profession,0,0,0,0,0,4,Unhealthy,BSc,0,11,5,Yes,1
+Female,24,Student,No Profession,5,0,8.96,1,0,6,Moderate,BCA,1,12,5,No,1
+Female,50,Working Professional,No Profession,0,0,0,0,0,6,Moderate,B.Arch,0,7,4,Yes,0
+Male,34,Student,No Profession,0,0,0,0,0,4,Moderate,MSc,0,7,1,Yes,0
+Female,49,Working Professional,Researcher,0,2,0,0,5,8,Unhealthy,M.Tech,0,1,2,Yes,0
+Female,29,Student,No Profession,0,0,0,0,0,4,Unhealthy,ME,0,11,1,Yes,0
+Female,56,Working Professional,Data Scientist,0,3,0,0,3,9,Unhealthy,MCA,0,2,3,No,0
+Male,43,Working Professional,Doctor,0,3,0,0,2,9,Moderate,MD,1,0,5,Yes,0
+Female,34,Working Professional,No Profession,0,0,0,0,0,4,Healthy,B.Ed,1,3,1,No,0
+Female,43,Working Professional,Consultant,0,5,0,0,2,9,Healthy,M.Com,0,2,5,No,0
+Male,51,Working Professional,Digital Marketer,0,1,0,0,2,9,Healthy,B.Com,0,3,3,No,0
+Male,59,Working Professional,Teacher,0,5,0,0,2,4,Moderate,B.Pharm,0,7,2,No,0
+Female,40,Working Professional,Financial Analyst,0,3,0,0,3,9,Healthy,B.Com,0,2,2,No,0
+Male,18,Working Professional,No Profession,0,3,0,0,1,6,Moderate,Class 12,0,11,1,No,0
+Male,47,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,B.Tech,1,10,5,No,1
+Female,45,Working Professional,No Profession,0,0,0,0,0,6,Moderate,LLB,0,7,5,No,0
+Female,45,Working Professional,Teacher,0,1,0,0,4,8,Moderate,LLM,0,2,2,Yes,0
+Male,20,Working Professional,No Profession,0,2,0,0,2,6,Unhealthy,Class 12,0,7,1,No,0
+Male,33,Student,No Profession,0,0,0,0,0,6,Unhealthy,MBBS,1,10,3,No,1
+Male,47,Working Professional,Content Writer,0,4,0,0,5,9,Unhealthy,B.Ed,0,9,1,No,0
+Male,39,Working Professional,Business Analyst,0,2,0,0,4,9,Healthy,BBA,1,6,2,Yes,0
+Female,25,Working Professional,No Profession,0,0,0,0,0,9,Healthy,B.Tech,0,12,3,No,0
+Male,47,Working Professional,Researcher,0,2,0,0,2,6,Unhealthy,MSc,0,12,3,No,0
+Female,44,Working Professional,Pharmacist,0,4,0,0,4,9,Moderate,MD,1,0,2,Yes,0
+Female,48,Working Professional,No Profession,0,0,0,0,0,6,Moderate,BCA,0,7,1,Yes,0
+Male,43,Working Professional,Educational Consultant,0,3,0,0,3,4,Moderate,B.Ed,1,0,3,No,0
+Male,41,Working Professional,No Profession,0,4,0,0,1,6,Unhealthy,Class 12,0,2,1,Yes,0
+Male,23,Working Professional,Teacher,0,3,0,0,2,6,Moderate,B.Com,0,6,2,No,0
+Male,57,Working Professional,Chef,0,3,0,0,3,6,Healthy,MHM,0,1,5,No,0
+Female,36,Working Professional,Teacher,0,4,0,0,3,8,Moderate,LLM,0,8,1,Yes,0
+Female,47,Working Professional,No Profession,0,0,0,0,0,6,Moderate,MSc,0,5,2,No,0
+Male,48,Working Professional,UX/UI Designer,0,5,0,0,1,8,Unhealthy,BE,1,11,4,Yes,0
+Female,43,Working Professional,No Profession,0,0,0,0,0,4,Moderate,M.Ed,0,9,2,No,0
+Male,59,Working Professional,Doctor,0,1,0,0,1,9,Moderate,M.Pharm,1,0,4,Yes,0
+Female,22,Working Professional,Data Scientist,0,5,0,0,5,9,Unhealthy,MCA,0,12,2,No,0
+Female,45,Working Professional,Teacher,0,3,0,0,2,6,Healthy,Class 12,1,1,2,Yes,0
+Male,48,Working Professional,Architect,0,5,0,0,4,9,Moderate,MCA,1,5,5,No,0
+Male,36,Working Professional,No Profession,0,0,0,0,0,9,Unhealthy,BA,0,4,3,No,0
+Male,37,Working Professional,Educational Consultant,0,3,0,0,1,9,Moderate,B.Ed,0,0,5,Yes,0
+Female,56,Working Professional,No Profession,0,0,0,0,0,6,Moderate,BBA,0,3,2,No,0
+Male,51,Working Professional,Teacher,0,3,0,0,2,9,Moderate,BA,1,12,3,Yes,0
+Male,37,Working Professional,HR Manager,0,2,0,0,4,8,Moderate,MSc,0,9,4,No,0
+Male,21,Student,No Profession,0,0,0,0,0,6,Healthy,BCA,1,10,3,Yes,1
+Female,49,Working Professional,No Profession,0,0,0,0,0,6,Healthy,BBA,0,3,5,Yes,0
+Male,57,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,M.Ed,0,5,5,Yes,0
+Male,40,Working Professional,No Profession,0,0,0,0,0,9,Unhealthy,MBA,0,4,2,No,0
+Female,50,Working Professional,Software Engineer,0,3,0,0,2,9,Moderate,MCA,1,1,4,No,0
+Female,48,Working Professional,No Profession,0,0,0,0,0,4,Moderate,BBA,1,1,5,No,0
+Female,47,Working Professional,Content Writer,0,1,0,0,1,4,Healthy,M.Tech,1,3,4,Yes,0
+Female,33,Student,No Profession,0,0,0,0,0,4,Unhealthy,BSc,1,12,1,No,1
+Male,60,Working Professional,Educational Consultant,0,4,0,0,3,8,Moderate,M.Ed,1,11,1,No,0
+Male,28,Student,No Profession,4,0,7.43,2,0,9,Healthy,MBA,1,6,5,Yes,1
+Male,55,Working Professional,Civil Engineer,0,4,0,0,3,8,Moderate,B.Tech,1,4,2,No,0
+Female,49,Working Professional,No Profession,0,1,0,0,1,4,Unhealthy,MA,1,11,3,Yes,1
+Male,27,Student,No Profession,0,0,0,0,0,6,Unhealthy,MCA,1,8,4,No,1
+Male,46,Working Professional,Doctor,0,4,0,0,2,4,Moderate,M.Pharm,1,11,3,No,0
+Male,33,Student,No Profession,0,0,0,0,0,4,Moderate,M.Tech,0,0,2,No,0
+Female,18,Student,No Profession,5,0,9.79,5,0,4,Unhealthy,Class 12,1,10,5,Yes,1
+Male,51,Working Professional,Pilot,0,2,0,0,1,8,Unhealthy,BCA,0,12,1,Yes,0
+Female,46,Working Professional,Pilot,0,4,0,0,2,8,Moderate,MSc,0,4,3,No,0
+Female,20,Student,No Profession,0,0,0,0,0,4,Moderate,Class 12,1,12,3,Yes,1
+Male,50,Working Professional,Data Scientist,0,1,0,0,5,9,Moderate,B.Tech,0,1,5,No,0
+Male,58,Working Professional,Content Writer,0,2,0,0,1,8,Healthy,B.Ed,0,4,2,Yes,0
+Female,59,Working Professional,No Profession,0,0,0,0,0,8,Moderate,LLM,1,1,4,Yes,0
+Female,55,Working Professional,Investment Banker,0,2,0,0,5,6,Healthy,MBA,0,8,4,No,0
+Female,41,Working Professional,Educational Consultant,0,5,0,0,5,8,Unhealthy,B.Ed,1,9,5,Yes,0
+Female,48,Working Professional,Architect,0,5,0,0,1,8,Healthy,B.Arch,0,12,5,No,0
+Female,59,Working Professional,Teacher,0,1,0,0,2,8,Unhealthy,B.Arch,1,1,4,Yes,0
+Female,56,Working Professional,Entrepreneur,0,3,0,0,3,8,Unhealthy,M.Com,0,1,2,No,0
+Female,58,Working Professional,Travel Consultant,0,3,0,0,1,9,Moderate,BHM,1,1,2,Yes,0
+Female,19,Student,No Profession,0,0,0,0,0,4,Unhealthy,Class 12,1,12,3,Yes,1
+Male,21,Student,No Profession,0,0,0,0,0,6,Healthy,MSc,1,11,3,Yes,1
+Male,56,Working Professional,Educational Consultant,0,3,0,0,4,4,Healthy,B.Ed,0,7,2,No,0
+Male,32,Student,No Profession,0,0,0,0,0,4,Unhealthy,B.Tech,1,12,4,No,1
+Female,35,Working Professional,No Profession,0,0,0,0,0,6,Healthy,BBA,0,0,1,Yes,0
+Male,56,Working Professional,Teacher,0,1,0,0,2,9,Moderate,B.Pharm,1,7,5,Yes,0
+Female,52,Working Professional,Content Writer,0,3,0,0,2,9,Moderate,B.Ed,0,8,2,Yes,0
+Female,47,Working Professional,Research Analyst,0,1,0,0,5,6,Healthy,BBA,0,4,5,Yes,0
+Male,55,Working Professional,Sales Executive,0,4,0,0,3,8,Unhealthy,M.Com,1,10,2,No,0
+Male,32,Student,No Profession,0,0,0,0,0,8,Moderate,LLB,1,7,4,Yes,1
+Female,57,Working Professional,Software Engineer,0,5,0,0,2,8,Healthy,B.Tech,1,1,2,Yes,0
+Female,25,Working Professional,No Profession,0,0,0,0,0,4,Healthy,B.Arch,1,9,2,No,0
+Male,33,Student,No Profession,0,0,0,0,0,4,Healthy,MD,0,5,1,Yes,0
+Male,37,Working Professional,Manager,0,3,0,0,2,6,Moderate,BHM,1,2,5,Yes,1
+Male,37,Working Professional,No Profession,0,2,0,0,1,9,Moderate,Class 12,1,2,1,No,0
+Female,23,Student,No Profession,0,0,0,0,0,4,Unhealthy,MCA,1,11,4,No,1
+Female,52,Working Professional,No Profession,0,0,0,0,0,8,Healthy,MBBS,0,12,1,No,0
+Female,54,Working Professional,No Profession,0,0,0,0,0,6,Moderate,M.Com,1,6,4,Yes,0
+Male,24,Student,No Profession,3,0,7.48,4,0,4,Unhealthy,M.Com,1,10,4,Yes,1
+Female,36,Working Professional,Civil Engineer,0,4,0,0,5,6,Moderate,ME,1,5,2,No,0
+Female,27,Working Professional,Educational Consultant,0,5,0,0,4,4,Unhealthy,B.Ed,1,9,4,Yes,1
+Male,53,Working Professional,Researcher,0,5,0,0,1,9,Moderate,BSc,1,1,2,No,0
+Female,41,Working Professional,Pilot,0,4,0,0,5,8,Moderate,BSc,1,3,4,Yes,0
+Female,41,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,B.Com,0,11,2,Yes,0
+Female,20,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,6,4,No,1
+Male,57,Working Professional,Mechanical Engineer,0,4,0,0,5,9,Moderate,B.Tech,1,9,3,No,0
+Male,40,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Pharm,0,6,3,No,0
+Female,40,Working Professional,Teacher,0,1,0,0,1,6,Healthy,M.Ed,1,11,4,Yes,0
+Female,36,Working Professional,Business Analyst,0,4,0,0,3,6,Unhealthy,B.Com,0,4,3,Yes,0
+Male,35,Working Professional,Chef,0,3,0,0,2,9,Unhealthy,BHM,0,10,4,Yes,0
+Male,34,Working Professional,Teacher,0,1,0,0,2,6,Healthy,B.Ed,0,12,4,No,0
+Male,51,Working Professional,Teacher,0,1,0,0,4,6,Healthy,MBBS,0,8,2,No,0
+Male,51,Working Professional,Teacher,0,2,0,0,3,6,Unhealthy,LLM,1,3,3,No,0
+Male,59,Working Professional,Educational Consultant,0,1,0,0,4,8,Unhealthy,B.Ed,0,1,4,Yes,0
+Female,42,Working Professional,Teacher,0,2,0,0,4,4,Unhealthy,M.Ed,0,1,4,Yes,0
+Male,28,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,M.Tech,1,1,4,No,0
+Female,39,Working Professional,Chef,0,4,0,0,5,6,Healthy,MHM,0,12,3,Yes,0
+Female,48,Working Professional,Travel Consultant,0,2,0,0,3,6,Healthy,BHM,0,9,2,Yes,0
+Male,56,Working Professional,Teacher,0,4,0,0,3,4,Unhealthy,MBA,0,6,3,Yes,0
+Male,31,Working Professional,Chemist,0,2,0,0,4,6,Unhealthy,M.Pharm,0,3,2,No,0
+Male,57,Working Professional,No Profession,0,0,0,0,0,8,Healthy,B.Ed,0,11,4,Yes,0
+Female,18,Working Professional,No Profession,0,0,0,0,0,6,Healthy,Class 12,0,7,2,No,0
+Male,36,Working Professional,Doctor,0,2,0,0,2,6,Healthy,MD,0,7,5,Yes,0
+Female,51,Working Professional,Teacher,0,3,0,0,3,6,Moderate,B.Ed,0,7,4,No,0
+Female,47,Working Professional,Teacher,0,5,0,0,2,8,Moderate,LLB,1,12,5,No,1
+Male,60,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,M.Com,1,12,4,Yes,0
+Male,54,Working Professional,Teacher,0,2,0,0,3,9,Healthy,LLM,1,1,4,Yes,0
+Female,19,Working Professional,No Profession,0,4,0,0,5,9,Healthy,Class 12,1,3,4,No,0
+Female,46,Working Professional,No Profession,0,0,0,0,0,4,Healthy,MBA,0,0,2,No,0
+Female,55,Working Professional,Content Writer,0,3,0,0,4,8,Healthy,MCA,0,0,4,Yes,0
+Female,24,Student,No Profession,0,0,0,0,0,4,Moderate,B.Arch,1,4,3,Yes,1
+Male,49,Working Professional,Travel Consultant,0,4,0,0,5,9,Healthy,MHM,0,9,4,Yes,0
+Male,22,Student,No Profession,0,0,0,0,0,4,Unhealthy,MCA,0,8,1,Yes,1
+Female,40,Working Professional,HR Manager,0,2,0,0,3,8,Moderate,ME,1,9,5,Yes,0
+Male,26,Student,No Profession,0,0,0,0,0,9,Unhealthy,BCA,0,11,2,No,0
+Female,20,Working Professional,No Profession,0,5,0,0,1,9,Unhealthy,Class 12,1,7,3,Yes,1
+Female,54,Working Professional,Digital Marketer,0,5,0,0,1,6,Moderate,B.Com,1,11,5,No,0
+Male,49,Working Professional,No Profession,0,0,0,0,0,4,Moderate,MSc,0,7,3,No,0
+Female,35,Working Professional,Software Engineer,0,1,0,0,5,9,Unhealthy,BSc,0,11,1,Yes,0
+Male,39,Working Professional,Marketing Manager,0,4,0,0,3,6,Moderate,B.Com,0,5,1,Yes,0
+Female,18,Student,No Profession,5,0,9.44,4,0,9,Unhealthy,Class 12,1,3,5,No,1
+Male,54,Working Professional,Travel Consultant,0,5,0,0,3,6,Healthy,MHM,1,0,3,No,0
+Female,48,Working Professional,Finanancial Analyst,0,1,0,0,2,8,Unhealthy,BSc,0,7,1,No,0
+Male,26,Student,No Profession,3,0,7.25,3,0,8,Unhealthy,MD,0,9,5,No,0
+Female,53,Working Professional,Content Writer,0,5,0,0,4,8,Moderate,B.Ed,0,0,5,Yes,0
+Male,33,Student,No Profession,0,0,0,0,0,9,Unhealthy,MD,0,9,3,No,0
+Male,48,Working Professional,Customer Support,0,1,0,0,5,4,Unhealthy,MA,0,12,5,Yes,0
+Male,52,Working Professional,Content Writer,0,2,0,0,3,6,Unhealthy,B.Ed,0,7,5,No,0
+Female,19,Student,No Profession,3,0,5.68,1,0,6,Moderate,Class 12,1,10,5,Yes,0
+Female,39,Working Professional,Marketing Manager,0,2,0,0,5,6,Unhealthy,B.Com,0,8,2,Yes,0
+Male,50,Working Professional,Educational Consultant,0,1,0,0,5,8,Healthy,M.Ed,0,1,2,No,0
+Female,44,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,M.Com,1,1,3,Yes,0
+Male,52,Working Professional,Teacher,0,1,0,0,5,9,Moderate,ME,1,2,3,Yes,0
+Male,26,Student,No Profession,0,0,0,0,0,8,Healthy,MSc,0,12,1,No,0
+Male,45,Working Professional,Teacher,0,5,0,0,4,8,Unhealthy,B.Ed,0,12,4,Yes,0
+Female,34,Student,No Profession,0,0,0,0,0,4,Moderate,BE,1,3,4,No,0
+Female,48,Working Professional,Manager,0,5,0,0,1,9,Unhealthy,BHM,1,10,1,No,0
+Male,58,Working Professional,Data Scientist,0,4,0,0,5,6,Moderate,ME,0,6,1,Yes,0
+Female,43,Working Professional,Chemist,0,3,0,0,2,8,Unhealthy,MBBS,1,6,1,No,0
+Female,22,Student,No Profession,0,0,0,0,0,8,Healthy,BCA,0,10,5,No,1
+Female,28,Student,No Profession,0,0,0,0,0,4,Unhealthy,B.Tech,0,7,4,Yes,1
+Male,57,Working Professional,Teacher,0,5,0,0,5,6,Unhealthy,BA,1,5,3,No,0
+Female,37,Working Professional,No Profession,0,5,0,0,3,8,Moderate,Class 12,0,5,4,No,0
+Female,38,Working Professional,Teacher,0,4,0,0,4,4,Moderate,M.Tech,1,2,5,Yes,0
+Female,26,Working Professional,Architect,0,2,0,0,3,4,Moderate,B.Arch,0,2,1,No,0
+Female,41,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,M.Ed,1,6,3,No,0
+Male,46,Working Professional,Plumber,0,4,0,0,5,6,Moderate,MSc,1,0,5,Yes,0
+Male,31,Student,No Profession,0,0,0,0,0,4,Unhealthy,LLB,0,12,2,No,0
+Female,18,Student,No Profession,3,0,9.86,4,0,9,Healthy,Class 12,1,9,2,No,1
+Male,32,Student,No Profession,0,0,0,0,0,6,Unhealthy,M.Tech,1,0,5,Yes,1
+Female,53,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,MHM,1,3,5,No,0
+Male,34,Working Professional,Software Engineer,0,3,0,0,1,8,Healthy,MSc,1,1,2,Yes,0
+Female,39,Working Professional,Educational Consultant,0,2,0,0,2,8,Unhealthy,B.Ed,1,3,1,Yes,0
+Female,19,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,11,5,No,1
+Female,43,Working Professional,Business Analyst,0,3,0,0,3,6,Unhealthy,BE,0,4,5,No,0
+Male,38,Working Professional,Teacher,0,1,0,0,4,9,Unhealthy,BCA,0,7,4,No,0
+Female,59,Working Professional,Graphic Designer,0,4,0,0,5,9,Healthy,PhD,0,1,4,No,0
+Male,54,Working Professional,Software Engineer,0,2,0,0,4,6,Healthy,BE,0,6,1,No,0
+Female,60,Working Professional,No Profession,0,0,0,0,0,9,Healthy,B.Com,0,7,4,Yes,0
+Male,20,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,1,3,No,1
+Male,28,Student,No Profession,0,0,0,0,0,6,Unhealthy,BCA,1,2,5,Yes,1
+Male,19,Student,No Profession,0,0,0,0,0,4,Healthy,Class 12,1,10,4,No,1
+Male,34,Student,No Profession,0,0,0,0,0,9,Moderate,B.Tech,0,3,1,No,0
+Female,19,Working Professional,No Profession,0,4,0,0,2,9,Unhealthy,Class 12,1,10,5,No,1
+Male,20,Student,No Profession,3,0,8.74,5,0,4,Unhealthy,Class 12,1,6,2,No,1
+Male,18,Student,No Profession,0,0,0,0,0,9,Moderate,Class 12,0,12,2,No,0
+Female,29,Student,No Profession,0,0,0,0,0,8,Moderate,BCA,0,10,5,No,1
+Female,57,Working Professional,Content Writer,0,2,0,0,4,8,Healthy,B.Ed,0,5,3,No,0
+Male,24,Student,No Profession,0,0,0,0,0,4,Moderate,M.Tech,0,1,1,No,0
+Male,28,Working Professional,Lawyer,0,3,0,0,5,6,Unhealthy,LLM,1,10,4,Yes,1
+Male,35,Working Professional,No Profession,0,5,0,0,5,9,Moderate,Class 12,0,12,5,Yes,0
+Female,45,Working Professional,HR Manager,0,4,0,0,4,8,Healthy,MSc,0,6,2,No,0
+Male,51,Working Professional,Content Writer,0,3,0,0,1,9,Healthy,M.Ed,1,3,5,No,0
+Female,43,Working Professional,Architect,0,2,0,0,3,4,Unhealthy,B.Arch,1,6,4,No,0
+Male,34,Working Professional,No Profession,0,0,0,0,0,4,Moderate,BE,0,1,3,Yes,0
+Female,49,Working Professional,Investment Banker,0,2,0,0,5,6,Healthy,MBA,0,0,5,Yes,0
+Male,33,Student,No Profession,0,0,0,0,0,6,Healthy,BSc,1,1,5,No,0
+Female,41,Working Professional,Plumber,0,1,0,0,2,4,Unhealthy,PhD,0,10,4,No,0
+Female,51,Working Professional,Customer Support,0,1,0,0,2,4,Healthy,BA,1,12,3,No,0
+Female,38,Working Professional,Consultant,0,5,0,0,2,4,Healthy,MBA,1,5,5,Yes,1
+Male,34,Student,No Profession,0,0,0,0,0,4,Moderate,B.Tech,1,10,4,No,0
+Female,39,Working Professional,No Profession,0,1,0,0,1,4,Healthy,Class 12,1,2,3,Yes,0
+Male,55,Working Professional,Teacher,0,4,0,0,4,8,Healthy,B.Arch,1,9,3,Yes,0
+Female,24,Working Professional,Teacher,0,5,0,0,2,9,Moderate,B.Arch,1,6,1,Yes,1
+Female,48,Working Professional,Graphic Designer,0,5,0,0,4,6,Unhealthy,MCA,1,1,3,No,0
+Female,29,Student,No Profession,0,0,0,0,0,8,Moderate,B.Com,0,9,2,No,0
+Female,35,Working Professional,HR Manager,0,5,0,0,2,6,Unhealthy,BBA,0,3,2,No,0
+Male,27,Student,No Profession,4,0,7.99,2,0,6,Unhealthy,B.Com,1,10,2,Yes,1
+Female,53,Working Professional,Teacher,0,3,0,0,5,4,Unhealthy,M.Pharm,1,7,5,Yes,0
+Female,31,Student,No Profession,0,0,0,0,0,4,Unhealthy,MD,1,9,1,Yes,1
+Male,53,Working Professional,No Profession,0,0,0,0,0,9,Healthy,B.Ed,0,12,2,Yes,0
+Male,42,Working Professional,No Profession,0,0,0,0,0,4,Healthy,Class 12,1,7,1,No,0
+Male,32,Working Professional,Lawyer,0,5,0,0,4,6,Unhealthy,LLM,1,12,2,No,1
+Female,47,Working Professional,Content Writer,0,1,0,0,4,9,Moderate,B.Ed,1,2,1,Yes,0
+Female,49,Working Professional,Civil Engineer,0,3,0,0,4,6,Healthy,MCA,0,6,1,No,0
+Male,49,Working Professional,Plumber,0,5,0,0,1,4,Unhealthy,MCA,1,4,1,No,0
+Male,30,Student,No Profession,0,0,0,0,0,4,Moderate,B.Tech,1,4,1,No,1
+Female,43,Working Professional,Teacher,0,2,0,0,2,8,Moderate,B.Ed,0,0,4,No,0
+Female,31,Student,No Profession,0,0,0,0,0,4,Moderate,MA,0,8,2,No,0
+Male,45,Working Professional,Customer Support,0,4,0,0,5,9,Unhealthy,BA,0,4,1,No,0
+Male,56,Working Professional,Accountant,0,3,0,0,5,4,Unhealthy,B.Com,0,7,1,No,0
+Male,26,Student,No Profession,0,0,0,0,0,6,Healthy,B.Arch,1,12,3,Yes,0
+Male,21,Student,No Profession,4,0,5.76,1,0,4,Unhealthy,B.Ed,1,9,4,Yes,1
+Female,50,Working Professional,Travel Consultant,0,2,0,0,3,8,Healthy,MHM,1,4,2,No,0
+Female,56,Working Professional,Pharmacist,0,3,0,0,2,4,Healthy,MBBS,0,9,1,No,0
+Male,46,Working Professional,No Profession,0,0,0,0,0,6,Moderate,MBA,1,4,3,Yes,0
+Female,34,Student,No Profession,0,0,0,0,0,4,Moderate,B.Ed,1,3,1,No,0
+Male,26,Working Professional,Pilot,0,5,0,0,1,4,Moderate,M.Tech,0,10,5,Yes,1
+Male,47,Working Professional,No Profession,0,0,0,0,0,4,Healthy,M.Tech,0,1,3,Yes,0
+Male,58,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,LLM,1,10,4,Yes,0
+Male,24,Student,No Profession,1,0,5.74,2,0,9,Moderate,B.Com,0,11,1,No,0
+Male,21,Student,No Profession,0,0,0,0,0,6,Unhealthy,B.Com,1,9,3,Yes,1
+Female,45,Working Professional,Mechanical Engineer,0,4,0,0,3,9,Unhealthy,PhD,0,7,3,Yes,0
+Female,49,Working Professional,Consultant,0,5,0,0,1,9,Healthy,ME,1,4,1,Yes,0
+Male,23,Working Professional,Graphic Designer,0,5,0,0,4,6,Moderate,MCA,1,8,5,No,1
+Female,31,Student,No Profession,0,0,0,0,0,6,Unhealthy,B.Tech,1,9,3,No,1
+Male,20,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,1,11,5,No,1
+Female,57,Working Professional,No Profession,0,0,0,0,0,9,Healthy,MA,0,0,2,Yes,0
+Female,31,Working Professional,Teacher,0,4,0,0,1,8,Unhealthy,MBBS,1,3,2,Yes,0
+Female,56,Working Professional,Business Analyst,0,2,0,0,1,4,Unhealthy,B.Com,1,0,1,Yes,0
+Female,58,Working Professional,Entrepreneur,0,2,0,0,5,6,Moderate,M.Tech,1,1,1,No,0
+Female,48,Working Professional,No Profession,0,0,0,0,0,9,Healthy,BA,0,5,3,Yes,0
+Male,34,Student,No Profession,0,0,0,0,0,6,Moderate,LLM,0,12,1,No,0
+Male,55,Working Professional,No Profession,0,0,0,0,0,4,Moderate,B.Pharm,0,12,5,No,0
+Female,56,Working Professional,Judge,0,4,0,0,3,6,Moderate,LLB,1,8,1,Yes,0
+Male,45,Working Professional,Teacher,0,2,0,0,2,4,Healthy,B.Ed,1,8,1,No,0
+Female,30,Student,No Profession,0,0,0,0,0,4,Healthy,M.Com,1,4,3,Yes,1
+Female,23,Working Professional,Marketing Manager,0,4,0,0,1,4,Moderate,B.Com,1,12,5,Yes,1
+Male,59,Working Professional,Content Writer,0,4,0,0,4,6,Unhealthy,M.Ed,1,11,2,No,0
+Male,30,Student,No Profession,1,0,5.65,5,0,8,Unhealthy,M.Ed,1,12,4,Yes,0
+Male,39,Working Professional,Teacher,0,2,0,0,4,6,Moderate,B.Pharm,0,3,2,Yes,0
+Male,20,Student,No Profession,5,0,9.72,1,0,6,Healthy,Class 12,1,11,2,No,1
+Male,56,Working Professional,No Profession,0,4,0,0,1,4,Moderate,Class 12,1,3,4,No,0
+Female,22,Student,No Profession,0,0,0,0,0,8,Moderate,B.Com,1,12,3,Yes,0
+Male,47,Working Professional,Marketing Manager,0,5,0,0,1,4,Unhealthy,BA,0,12,3,Yes,0
+Female,41,Working Professional,Architect,0,2,0,0,5,6,Healthy,B.Arch,0,0,5,No,0
+Male,60,Working Professional,Teacher,0,3,0,0,3,4,Moderate,MD,1,2,2,Yes,0
+Male,18,Student,No Profession,0,0,0,0,0,9,Healthy,Class 12,1,9,2,Yes,1
+Male,40,Working Professional,No Profession,0,0,0,0,0,8,Healthy,MBA,1,7,1,No,0
+Male,47,Working Professional,Teacher,0,4,0,0,4,8,Moderate,B.Arch,1,10,1,No,0
+Female,42,Working Professional,No Profession,0,0,0,0,0,6,Healthy,B.Ed,1,9,1,Yes,0
+Male,56,Working Professional,Sales Executive,0,4,0,0,2,8,Unhealthy,BBA,1,7,2,No,0
+Female,49,Working Professional,Data Scientist,0,1,0,0,3,8,Healthy,BCA,1,11,4,Yes,0
+Male,31,Working Professional,Doctor,0,4,0,0,2,8,Moderate,MD,0,0,2,No,0
+Male,44,Working Professional,Business Analyst,0,1,0,0,2,6,Moderate,M.Com,0,0,3,Yes,0
+Female,27,Student,No Profession,0,0,0,0,0,4,Healthy,PhD,1,6,5,Yes,1
+Male,26,Working Professional,Chemist,0,4,0,0,1,9,Unhealthy,M.Pharm,0,10,4,Yes,1
+Female,56,Working Professional,Consultant,0,3,0,0,5,4,Moderate,M.Com,1,5,5,Yes,0
+Male,26,Student,No Profession,0,0,0,0,0,8,Moderate,BE,1,10,2,Yes,1
+Female,33,Working Professional,Travel Consultant,0,4,0,0,1,4,Unhealthy,BHM,0,0,4,Yes,0
+Male,59,Working Professional,Consultant,0,2,0,0,4,4,Healthy,PhD,1,7,3,No,0
+Female,49,Working Professional,Lawyer,0,3,0,0,2,9,Healthy,LLM,0,2,2,No,0
+Male,46,Working Professional,Electrician,0,5,0,0,2,9,Healthy,M.Tech,0,5,2,No,0
+Female,37,Working Professional,Manager,0,2,0,0,1,4,Healthy,BHM,0,12,1,Yes,0
+Male,43,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,B.Arch,1,0,3,No,0
+Female,55,Working Professional,Doctor,0,3,0,0,1,8,Moderate,M.Pharm,1,11,2,No,0
+Male,24,Student,No Profession,0,0,0,0,0,8,Healthy,B.Pharm,1,5,3,Yes,1
+Male,23,Working Professional,Travel Consultant,0,1,0,0,2,8,Moderate,BHM,1,11,5,Yes,0
+Female,54,Working Professional,Content Writer,0,2,0,0,1,8,Healthy,B.Ed,0,4,1,Yes,0
+Male,45,Working Professional,No Profession,0,0,0,0,0,6,Moderate,BA,0,2,2,Yes,0
+Female,42,Working Professional,Mechanical Engineer,0,1,0,0,2,8,Moderate,MSc,0,2,1,Yes,0
+Male,32,Working Professional,Teacher,0,5,0,0,3,6,Healthy,MBA,0,0,3,No,0
+Female,45,Working Professional,Judge,0,1,0,0,4,9,Moderate,LLM,0,9,5,Yes,0
+Female,28,Student,No Profession,0,0,0,0,0,6,Healthy,BSc,1,2,5,Yes,1
+Female,44,Working Professional,Teacher,0,3,0,0,1,9,Healthy,LLB,0,6,1,No,0
+Female,24,Student,No Profession,0,0,0,0,0,8,Unhealthy,B.Arch,1,0,4,Yes,1
+Female,32,Student,No Profession,1,0,8.03,3,0,6,Unhealthy,BA,1,4,4,No,1
+Female,50,Working Professional,No Profession,0,3,0,0,4,8,Healthy,Class 12,0,2,3,Yes,0
+Female,30,Working Professional,Judge,0,5,0,0,3,9,Unhealthy,LLB,0,10,2,Yes,0
+Male,39,Working Professional,Pharmacist,0,5,0,0,2,9,Unhealthy,MBBS,0,4,2,No,0
+Female,59,Working Professional,Teacher,0,5,0,0,2,8,Unhealthy,M.Ed,0,3,1,No,0
+Male,37,Working Professional,No Profession,0,0,0,0,0,9,Healthy,LLB,1,8,2,Yes,0
+Male,43,Working Professional,No Profession,0,0,0,0,0,4,Healthy,PhD,0,4,4,No,0
+Female,21,Student,No Profession,0,0,0,0,0,8,Healthy,MBBS,1,11,4,No,1
+Male,34,Working Professional,Chef,0,4,0,0,4,6,Unhealthy,BHM,0,1,5,No,0
+Male,19,Student,No Profession,0,0,0,0,0,8,Moderate,Class 12,0,12,1,Yes,0
+Female,35,Working Professional,Content Writer,0,2,0,0,4,4,Healthy,M.Ed,1,0,1,Yes,0
+Female,24,Student,No Profession,0,0,0,0,0,8,Moderate,M.Ed,0,11,1,Yes,0
+Male,40,Working Professional,No Profession,0,0,0,0,0,4,Moderate,B.Com,0,11,3,Yes,0
+Female,57,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Tech,0,3,2,No,0
+Female,45,Working Professional,Teacher,0,4,0,0,4,8,Healthy,M.Pharm,1,10,1,No,0
+Male,56,Working Professional,No Profession,0,0,0,0,0,8,Healthy,LLB,0,11,3,No,0
+Male,55,Working Professional,No Profession,0,0,0,0,0,9,Unhealthy,M.Ed,1,10,1,No,0
+Female,26,Student,No Profession,0,0,0,0,0,8,Healthy,B.Arch,0,8,5,No,0
+Female,20,Student,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,0,4,3,Yes,0
+Female,44,Working Professional,Lawyer,0,3,0,0,1,9,Unhealthy,LLB,0,5,3,Yes,0
+Female,58,Working Professional,Content Writer,0,1,0,0,5,4,Moderate,PhD,0,10,1,No,0
+Male,42,Working Professional,Mechanical Engineer,0,1,0,0,3,9,Healthy,MSc,1,2,5,Yes,0
+Male,19,Student,No Profession,0,0,0,0,0,4,Moderate,Class 12,1,8,3,Yes,1
+Male,24,Working Professional,Teacher,0,4,0,0,3,4,Moderate,B.Arch,0,0,5,Yes,1
+Female,38,Working Professional,Teacher,0,3,0,0,2,4,Moderate,B.Pharm,0,2,1,No,0
+Male,32,Student,No Profession,0,0,0,0,0,9,Moderate,MBBS,1,7,2,No,0
+Male,53,Working Professional,Researcher,0,2,0,0,1,4,Unhealthy,PhD,1,8,2,Yes,0
+Female,18,Working Professional,No Profession,0,0,0,0,0,4,Moderate,Class 12,1,12,4,Yes,1
+Male,56,Working Professional,Electrician,0,5,0,0,4,4,Healthy,M.Tech,0,10,4,No,0
+Female,23,Student,No Profession,5,0,5.74,2,0,6,Moderate,B.Ed,1,2,3,No,0
+Female,37,Working Professional,Content Writer,0,4,0,0,3,6,Moderate,M.Ed,0,12,1,Yes,0
+Male,52,Working Professional,Teacher,0,2,0,0,5,6,Unhealthy,B.Arch,0,9,3,No,0
+Male,53,Working Professional,Finanancial Analyst,0,3,0,0,1,4,Unhealthy,ME,1,12,1,No,0
+Female,23,Student,No Profession,0,0,0,0,0,4,Moderate,M.Tech,1,10,3,No,1
+Female,47,Working Professional,UX/UI Designer,0,1,0,0,1,8,Moderate,BE,0,4,1,Yes,0
+Male,60,Working Professional,Sales Executive,0,5,0,0,3,4,Moderate,MBA,1,3,2,No,0
+Female,55,Working Professional,No Profession,0,0,0,0,0,4,Moderate,MD,1,1,2,No,0
+Female,18,Working Professional,No Profession,0,0,0,0,0,8,Healthy,Class 12,1,4,2,No,0
+Male,29,Student,No Profession,3,0,8.59,2,0,8,Moderate,MCA,0,8,5,Yes,1
+Female,24,Working Professional,Teacher,0,1,0,0,4,9,Healthy,BA,1,10,4,Yes,0
+Female,29,Student,No Profession,0,0,0,0,0,8,Moderate,B.Ed,0,8,2,Yes,0
+Female,57,Working Professional,HR Manager,0,1,0,0,3,8,Healthy,MBA,0,3,2,Yes,0
+Male,24,Working Professional,Teacher,0,5,0,0,1,6,Unhealthy,B.Pharm,1,10,5,Yes,1
+Male,23,Working Professional,Graphic Designer,0,4,0,0,1,4,Moderate,B.Tech,1,6,5,No,1
+Female,46,Working Professional,Teacher,0,1,0,0,2,4,Moderate,M.Ed,1,4,1,No,0
+Male,46,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Tech,0,9,5,No,0
+Female,47,Working Professional,Finanancial Analyst,0,1,0,0,5,4,Moderate,ME,1,11,1,Yes,0
+Female,27,Student,No Profession,0,0,0,0,0,8,Unhealthy,MA,1,4,4,No,0
+Female,33,Student,No Profession,0,0,0,0,0,9,Moderate,Class 12,0,9,1,Yes,1
+Female,33,Student,No Profession,0,0,0,0,0,9,Unhealthy,MSc,1,8,2,Yes,1
+Female,44,Working Professional,No Profession,0,0,0,0,0,4,Healthy,M.Ed,0,3,1,No,0
+Male,44,Working Professional,No Profession,0,0,0,0,0,9,Healthy,B.Ed,0,10,5,Yes,0
+Male,18,Working Professional,No Profession,0,5,0,0,3,8,Unhealthy,Class 12,1,11,2,Yes,1
+Female,46,Working Professional,Civil Engineer,0,5,0,0,4,4,Healthy,MSc,0,2,5,No,0
+Female,58,Working Professional,Marketing Manager,0,2,0,0,1,6,Unhealthy,MA,0,2,4,Yes,0
+Male,39,Working Professional,No Profession,0,0,0,0,0,6,Unhealthy,LLB,1,9,4,No,0
+Female,44,Working Professional,Educational Consultant,0,1,0,0,2,9,Moderate,B.Ed,0,10,2,Yes,0
+Female,43,Working Professional,Architect,0,4,0,0,3,9,Moderate,MCA,1,7,2,Yes,0
+Male,57,Working Professional,Content Writer,0,3,0,0,3,8,Moderate,BCA,0,9,4,Yes,0
+Male,57,Working Professional,Data Scientist,0,1,0,0,5,6,Moderate,B.Tech,0,11,3,Yes,0
+Female,55,Working Professional,Architect,0,2,0,0,4,9,Healthy,MCA,1,9,1,No,0
+Male,31,Student,No Profession,0,0,0,0,0,4,Moderate,LLB,0,12,2,No,0
+Female,59,Working Professional,Teacher,0,3,0,0,3,4,Healthy,B.Arch,1,8,5,No,0
+Male,25,Student,No Profession,0,0,0,0,0,8,Moderate,B.Ed,1,10,5,Yes,1
+Male,39,Working Professional,UX/UI Designer,0,5,0,0,2,4,Unhealthy,M.Tech,0,6,1,No,0
+Female,54,Working Professional,Customer Support,0,2,0,0,3,4,Moderate,B.Com,1,0,5,No,0
+Female,43,Working Professional,No Profession,0,0,0,0,0,8,Healthy,LLB,1,3,1,No,0
+Female,53,Working Professional,No Profession,0,1,0,0,5,4,Healthy,Class 12,0,0,4,No,0
+Female,29,Student,No Profession,0,0,0,0,0,4,Healthy,LLM,0,6,4,Yes,0
+Male,54,Working Professional,Marketing Manager,0,4,0,0,3,6,Moderate,MA,1,4,3,Yes,0
+Male,31,Working Professional,Teacher,0,5,0,0,3,6,Healthy,LLB,1,7,1,Yes,0
+Male,33,Working Professional,Teacher,0,2,0,0,5,4,Moderate,B.Arch,1,0,3,Yes,0
+Female,41,Working Professional,No Profession,0,0,0,0,0,9,Moderate,B.Arch,0,6,4,Yes,0
+Male,23,Working Professional,Educational Consultant,0,3,0,0,1,4,Moderate,M.Ed,1,3,5,Yes,1
+Female,57,Working Professional,Teacher,0,3,0,0,3,6,Healthy,LLM,1,9,5,No,0
+Male,35,Working Professional,No Profession,0,2,0,0,1,9,Moderate,Class 12,0,10,2,No,0
+Female,42,Working Professional,Content Writer,0,5,0,0,4,6,Unhealthy,M.Ed,0,2,5,Yes,0
+Male,23,Working Professional,Researcher,0,4,0,0,4,9,Unhealthy,BSc,1,10,5,No,0
+Female,18,Working Professional,No Profession,0,5,0,0,4,9,Moderate,Class 12,0,3,2,Yes,1
+Female,29,Working Professional,Doctor,0,5,0,0,5,4,Moderate,MBBS,0,0,2,Yes,0
+Male,47,Working Professional,Teacher,0,2,0,0,5,8,Healthy,LLB,1,11,3,Yes,0
+Male,50,Working Professional,Teacher,0,2,0,0,2,6,Unhealthy,LLB,1,8,3,Yes,0
+Male,38,Working Professional,Chemist,0,5,0,0,1,6,Moderate,B.Pharm,1,2,4,No,0
+Female,18,Student,No Profession,0,0,0,0,0,9,Healthy,Class 12,1,11,4,Yes,1
+Male,53,Working Professional,Teacher,0,2,0,0,1,9,Moderate,B.Ed,1,1,5,No,0
+Female,50,Working Professional,Finanancial Analyst,0,3,0,0,3,8,Unhealthy,B.Tech,1,9,1,Yes,0
+Male,57,Working Professional,Customer Support,0,3,0,0,4,4,Moderate,B.Com,0,2,2,No,0
+Female,58,Working Professional,Teacher,0,3,0,0,1,8,Unhealthy,M.Ed,0,8,5,Yes,0
+Male,40,Working Professional,No Profession,0,0,0,0,0,4,Unhealthy,B.Com,1,9,4,No,0
+Male,46,Working Professional,Content Writer,0,1,0,0,4,8,Unhealthy,MCA,0,12,4,Yes,0
+Male,56,Working Professional,Teacher,0,4,0,0,5,9,Healthy,LLM,0,11,4,No,0
+Male,46,Working Professional,Chemist,0,1,0,0,5,4,Unhealthy,MD,0,0,1,No,0
+Female,46,Working Professional,Sales Executive,0,2,0,0,5,9,Healthy,BBA,1,6,5,No,0
+Female,18,Student,No Profession,0,0,0,0,0,8,Healthy,Class 12,1,7,4,Yes,0
+Female,42,Working Professional,Finanancial Analyst,0,2,0,0,5,4,Moderate,BE,0,5,2,Yes,0
+Female,53,Working Professional,No Profession,0,0,0,0,0,6,Healthy,BBA,1,6,3,Yes,0
+Male,22,Student,No Profession,0,0,0,0,0,4,Moderate,MSc,1,11,4,No,1
+Female,59,Working Professional,Architect,0,2,0,0,3,4,Healthy,MCA,0,0,2,No,0
+Male,24,Student,No Profession,5,0,8.04,1,0,6,Moderate,BSc,1,5,4,Yes,1
+Male,29,Working Professional,Consultant,0,2,0,0,4,9,Unhealthy,B.Com,0,1,2,Yes,0
+Female,41,Working Professional,Researcher,0,2,0,0,4,9,Unhealthy,BCA,0,1,1,No,0
+Female,52,Working Professional,Content Writer,0,2,0,0,5,9,Healthy,B.Ed,1,9,2,Yes,0
+Male,38,Working Professional,Accountant,0,2,0,0,4,9,Moderate,B.Com,0,5,4,No,0
+Male,56,Working Professional,Pharmacist,0,4,0,0,5,9,Moderate,MBBS,0,11,2,Yes,0
+Male,24,Student,No Profession,0,0,0,0,0,8,Unhealthy,B.Ed,1,11,5,No,1
+Female,45,Working Professional,Teacher,0,5,0,0,4,8,Unhealthy,B.Arch,1,5,4,No,0
+Male,38,Working Professional,No Profession,0,0,0,0,0,8,Moderate,ME,1,3,2,No,0
+Male,27,Working Professional,Doctor,0,3,0,0,4,6,Unhealthy,B.Pharm,0,1,2,No,0
+Male,60,Working Professional,Travel Consultant,0,4,0,0,2,4,Moderate,MHM,1,9,1,Yes,0
+Male,30,Student,No Profession,0,0,0,0,0,8,Unhealthy,Class 12,0,11,2,Yes,0
+Female,51,Working Professional,HR Manager,0,4,0,0,1,8,Healthy,ME,0,1,5,No,0
+Male,29,Working Professional,Financial Analyst,0,4,0,0,2,8,Moderate,B.Com,1,11,1,No,1
+Male,33,Student,No Profession,0,0,0,0,0,6,Moderate,PhD,0,7,1,Yes,0
+Male,53,Working Professional,Sales Executive,0,1,0,0,5,4,Moderate,B.Com,1,1,5,Yes,0
+Male,57,Working Professional,Content Writer,0,1,0,0,5,4,Unhealthy,B.Ed,0,6,2,No,0
+Female,55,Working Professional,Consultant,0,1,0,0,5,6,Moderate,B.Com,1,3,4,Yes,0
+Female,44,Working Professional,Teacher,0,2,0,0,1,9,Unhealthy,M.Pharm,0,4,5,Yes,0
+Male,56,Working Professional,Doctor,0,2,0,0,5,4,Unhealthy,B.Pharm,1,5,5,No,0
+Female,38,Working Professional,Architect,0,1,0,0,2,8,Moderate,B.Arch,1,3,4,No,0
+Male,48,Working Professional,HR Manager,0,4,0,0,1,8,Moderate,BBA,1,12,4,No,0
+Male,56,Working Professional,Lawyer,0,1,0,0,3,8,Unhealthy,LLM,0,9,1,Yes,0
+Male,34,Student,No Profession,0,0,0,0,0,9,Healthy,M.Tech,0,8,3,Yes,0
+Male,55,Working Professional,Sales Executive,0,2,0,0,3,8,Healthy,BBA,0,12,3,No,0
+Female,45,Working Professional,Content Writer,0,2,0,0,4,8,Moderate,B.Ed,0,9,2,Yes,0
+Male,33,Working Professional,HR Manager,0,1,0,0,5,9,Moderate,M.Tech,1,9,3,No,0
+Male,48,Working Professional,Researcher,0,1,0,0,3,9,Unhealthy,M.Tech,1,10,5,Yes,0
+Male,55,Working Professional,No Profession,0,0,0,0,0,8,Unhealthy,M.Tech,1,11,1,No,0
+Male,32,Student,No Profession,4,0,6.08,1,0,8,Moderate,MCA,1,7,1,No,1
+Female,19,Working Professional,No Profession,0,5,0,0,5,8,Moderate,Class 12,1,7,5,No,0
+Male,34,Working Professional,HR Manager,0,2,0,0,1,8,Unhealthy,B.Tech,0,12,1,Yes,0
+Female,35,Working Professional,Content Writer,0,1,0,0,3,6,Healthy,B.Ed,0,2,5,No,0
+Female,44,Working Professional,Customer Support,0,4,0,0,1,9,Healthy,B.Com,0,12,4,Yes,0
+Female,28,Working Professional,Content Writer,0,3,0,0,3,8,Unhealthy,B.Ed,0,1,5,Yes,0
+Male,33,Student,No Profession,0,0,0,0,0,8,Healthy,MA,0,11,4,Yes,0
+Male,42,Working Professional,No Profession,0,0,0,0,0,9,Unhealthy,Class 12,0,0,4,No,0
+Female,20,Student,No Profession,0,0,0,0,0,9,Healthy,Class 12,1,7,5,Yes,1
+Female,42,Working Professional,Manager,0,2,0,0,5,9,Moderate,MHM,1,12,2,No,0
+Male,56,Working Professional,No Profession,0,0,0,0,0,4,Moderate,MCA,0,0,3,No,0
+Female,59,Working Professional,No Profession,0,0,0,0,0,9,Healthy,BBA,0,6,2,No,0
+Female,25,Student,No Profession,0,0,0,0,0,9,Unhealthy,B.Pharm,1,10,5,No,1
+Male,55,Working Professional,Architect,0,2,0,0,4,8,Healthy,BCA,0,5,2,Yes,0
+Male,24,Student,No Profession,0,0,0,0,0,8,Healthy,B.Tech,1,8,4,Yes,1
+Male,23,Student,No Profession,0,0,0,0,0,4,Healthy,B.Com,1,7,2,No,1
+Male,39,Working Professional,Teacher,0,3,0,0,3,8,Unhealthy,LLM,0,2,1,Yes,0
+Female,43,Working Professional,Entrepreneur,0,3,0,0,5,9,Unhealthy,MSc,1,11,1,No,0
+Male,53,Working Professional,No Profession,0,0,0,0,0,8,Moderate,BHM,0,9,3,Yes,0
+Male,51,Working Professional,No Profession,0,0,0,0,0,9,Moderate,BBA,1,3,1,Yes,0
+Male,25,Working Professional,Content Writer,0,1,0,0,2,8,Healthy,M.Ed,1,10,5,No,0
+Female,51,Working Professional,Accountant,0,1,0,0,5,4,Unhealthy,B.Com,0,1,4,Yes,0
+Male,50,Working Professional,HR Manager,0,4,0,0,1,4,Unhealthy,BBA,0,0,4,Yes,0
+Female,51,Working Professional,Software Engineer,0,3,0,0,2,6,Healthy,MCA,1,9,1,No,0
+Female,30,Student,No Profession,0,0,0,0,0,4,Moderate,M.Ed,0,12,1,Yes,0
+Male,18,Working Professional,No Profession,0,4,0,0,2,4,Unhealthy,Class 12,1,11,2,Yes,1
+Male,39,Working Professional,Doctor,0,3,0,0,3,8,Moderate,MD,1,0,3,No,0
+Male,60,Working Professional,Mechanical Engineer,0,4,0,0,5,4,Healthy,BSc,0,2,4,No,0
+Female,39,Working Professional,HR Manager,0,2,0,0,5,9,Healthy,MSc,0,11,3,No,0
+Male,37,Working Professional,Doctor,0,4,0,0,2,4,Unhealthy,MD,0,3,3,Yes,0
+Female,55,Working Professional,Teacher,0,2,0,0,4,8,Moderate,M.Pharm,0,1,4,No,0
+Male,31,Working Professional,Chef,0,4,0,0,2,6,Unhealthy,MHM,1,9,5,Yes,1
+Male,46,Working Professional,Entrepreneur,0,4,0,0,2,8,Unhealthy,MBA,1,2,2,Yes,0
+Male,42,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Tech,1,12,5,Yes,0
+Female,37,Working Professional,Entrepreneur,0,1,0,0,1,8,Unhealthy,BSc,0,5,5,Yes,0
+Female,31,Working Professional,Lawyer,0,4,0,0,5,8,Healthy,LLM,0,11,5,Yes,0
+Female,52,Working Professional,No Profession,0,0,0,0,0,6,Healthy,B.Pharm,0,3,4,No,0
+Female,39,Student,No Profession,0,0,0,0,0,8,Moderate,M.Tech,1,7,2,No,1
+Male,46,Working Professional,Pilot,0,2,0,0,5,6,Unhealthy,M.Tech,0,0,1,Yes,0
+Male,51,Working Professional,Teacher,0,2,0,0,3,4,Moderate,B.Ed,0,7,3,No,0
+Male,41,Working Professional,Content Writer,0,4,0,0,4,6,Healthy,B.Ed,0,8,2,No,0
+Male,43,Working Professional,No Profession,0,1,0,0,4,9,Moderate,Class 12,0,0,4,Yes,0
+Female,43,Working Professional,Mechanical Engineer,0,5,0,0,1,6,Healthy,BE,0,9,3,Yes,0
+Male,22,Student,No Profession,1,0,7.25,5,0,8,Unhealthy,BE,1,9,5,Yes,1
+Female,54,Working Professional,Educational Consultant,0,4,0,0,4,8,Unhealthy,M.Ed,0,5,5,Yes,0
+Female,22,Working Professional,No Profession,0,0,0,0,0,8,Moderate,B.Com,1,4,1,No,0
+Female,56,Working Professional,Teacher,0,1,0,0,4,9,Healthy,B.Ed,1,10,1,No,0
+Female,38,Working Professional,No Profession,0,0,0,0,0,6,Moderate,BCA,0,5,2,No,0
+Male,38,Working Professional,Educational Consultant,0,2,0,0,1,4,Unhealthy,M.Ed,0,6,1,Yes,0
+Male,59,Working Professional,Pharmacist,0,3,0,0,5,6,Unhealthy,M.Pharm,0,1,2,No,0
+Male,23,Student,No Profession,0,0,0,0,0,6,Unhealthy,B.Com,1,6,3,Yes,1
+Female,37,Working Professional,Content Writer,0,1,0,0,2,9,Healthy,BCA,1,7,1,Yes,0
+Female,47,Working Professional,Teacher,0,2,0,0,1,4,Unhealthy,B.Arch,0,12,5,Yes,0
+Male,56,Working Professional,Teacher,0,5,0,0,2,4,Moderate,B.Com,0,8,5,Yes,0
+Male,31,Student,No Profession,1,0,9.71,1,0,9,Moderate,M.Tech,1,2,3,Yes,1
+Female,36,Working Professional,Lawyer,0,3,0,0,2,6,Moderate,LLB,0,11,3,No,0
+Male,20,Student,No Profession,0,0,0,0,0,4,Unhealthy,Class 12,0,10,1,Yes,0
+Male,57,Working Professional,Content Writer,0,4,0,0,3,4,Moderate,M.Ed,0,7,4,Yes,0
+Female,44,Working Professional,Civil Engineer,0,1,0,0,4,9,Moderate,BCA,0,10,4,No,0
